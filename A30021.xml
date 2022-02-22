@@ -1,0 +1,777 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Battering rams against New Rome containing a farther discovery of the grand hypocrisie of the leaders and teachers of the people called Quakers : together with a publick challenge to meet G. Fox, G. Whitehead, W. Penn, and S. Cater to prove matters of fact : to which are added some queries propounded to their Protestant hearers who are not of G.F.'s party / by Francis Bugg.</title>
+            <author>Bugg, Francis, 1640-1724?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 96 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30021</idno>
+            <idno type="STC">Wing B5366</idno>
+            <idno type="STC">ESTC R3241</idno>
+            <idno type="EEBO-CITATION">13672641</idno>
+            <idno type="OCLC">ocm 13672641</idno>
+            <idno type="VID">101178</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30021)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101178)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 838:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Battering rams against New Rome containing a farther discovery of the grand hypocrisie of the leaders and teachers of the people called Quakers : together with a publick challenge to meet G. Fox, G. Whitehead, W. Penn, and S. Cater to prove matters of fact : to which are added some queries propounded to their Protestant hearers who are not of G.F.'s party / by Francis Bugg.</title>
+                  <author>Bugg, Francis, 1640-1724?</author>
+               </titleStmt>
+               <extent>[2], 29, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Joh. Gwillim ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Jan. 12, 1690/1.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed Decemb. 3, 1690."</note>
+                  <note>Errata: p. [1] at end.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fox, George, 1624-1691.</term>
+               <term>Whitehead, George, 1636?-1723.</term>
+               <term>Cater, Samuel, d. 1711.</term>
+               <term>Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101178:1" rendition="simple:additions"/>
+            <p>BATTERING RAMS AGAINST NEW ROME: CONTAINING A FARTHER DISCOVERY OF <hi>The Grand Hypocriſie</hi> OF THE LEADERS and TEACHERS Of the PEOPLE Called QUAKERS. TOGETHER WITH A Publick Challenge to meet <hi>G. Fox, G. Whitehead, W. Penn,</hi> and <hi>S. Cater,</hi> to prove Matters of Fact. To which are Added Some QUERIES propounded to their PROTESTANT HEARERS, Who are not of <hi>G. F's</hi> PARTY.</p>
+            <p>By <hi>FRANCIS BUGG.</hi>
+            </p>
+            <q>I have laid a Snare for thee, and thou art taken, <hi>O BABYLON,</hi> and thou waſt not aware: Thou art found, and alſo caught, becauſe thou haſt ſtriven againſt the LORD. Put your ſelves in Array againſt <hi>BABYLON</hi> round about: All ye that bend the Bow, <hi>ſhoot</hi> at her, <hi>ſpare</hi> no <hi>Arrows.</hi> The LORD hath open'd his Ar<g ref="char:EOLhyphen"/>mory, and hath brought forth the Weapons of his Indignation; for this is the Work of the LORD GOD of Hoſts.
+<bibl>
+                  <hi>Jer. 50.14, 24, 25.</hi>
+               </bibl>
+            </q>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>LICENSED,</p>
+                        <closer>
+                           <date>
+                              <hi>Decemb.</hi> 3. 1690.</date>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Joh. Gwillim,</hi> Book-ſeller, in <hi>Biſhops-gate<g ref="char:EOLhyphen"/>ſtreet,</hi> over againſt the <hi>Great James, Jan.</hi> 12. 1690/1.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:101178:2"/>
+            <pb n="1" facs="tcp:101178:2"/>
+            <head>BATTERING RAMS AGAINST NEW ROME, &amp;c.</head>
+            <div type="introduction">
+               <head>The INTRODUCTION.</head>
+               <opener>
+                  <salute>Friendly Reader,</salute>
+               </opener>
+               <p>I Thought long ſince, that my ſelf and others had writ ſufficiently againſt the Errours of the Teachers and Leaders of this People, and that I ſhould be no farther concerned with them; but having ſeen their Anſwer to a Letter lately ſent to them, wherein they pretend ſincerely to deny the Guilt of Hypocriſie, wherewith they, in the ſaid Letter, are charged; and I being ſenſible that many un<g ref="char:EOLhyphen"/>acquainted with their Wiles, and ſubtile way of Writing, may be ready to believe them what they ſay themſelves to be; I thought it my Duty to make good the ſaid Charge, and farther to unmask them, that ſo they may appear what they really are; and to ſhew them in their true and proper Colours, to the intent they may no longer deceive the Simple. And in the Diſcharge thereof I ſhall ſay, as <hi>Geo. Whitehead</hi> ſays in his Epiſtle to his Book ſtyled <hi>Judgment fixed,</hi> &amp;c. <hi>I neither conſult Events, nor fear Effects; but leave all to GOD.</hi>
+               </p>
+               <p>It is not my preſent purpoſe to meddle much with the Frame and Method of their Church Government, their General Councils, their Zeal for their <g ref="char:V">Ʋ</g>nwritten Tra<g ref="char:EOLhyphen"/>ditions above the Scriptures, or the Miſchief of their Impoſitions amongſt their own People; that not being, at this time, ſo immediately under my Conſideration; and alſo having, by my Book, <hi>De Chriſtiana Libertate,</hi> &amp;c. printed <hi>1682.</hi> treated largely thereof, wherein their ſaid Errours are fully detected, <hi>&amp;c.</hi>
+               </p>
+               <p>Neither ſhall I much concern my ſelf with their Laws, or Edicts, they made at their Yearly Meeting, or General Council, held at <hi>London, May 1675.</hi> ſubſcribed by <hi>W. Penn, Geo. Whitehead, Steph. Criſp,</hi> and others; whereby they ſtrictly re<g ref="char:EOLhyphen"/>quire their Hearers neither to <hi>Forſake, Decline, <hi>nor</hi> Remove</hi> their Meetings, like <hi>Worlely, Fearful,</hi> and <hi>Politick Profeſſors;</hi> and yet they themſelves refuſed to ſtand in a like ſuffering Capacity with them: Inſomuch as that, in the Loſs of Thir<g ref="char:EOLhyphen"/>teen Thouſand five Hundred Fifty and odd Pounds, by Fines and Distreſſes, their Miniſters, where Strangers, never loſt Fifty Pounds; as at large is ſet forth in my Book entituled, <hi>The Painted Harlot both ſtripp'd and whipp'd,</hi> &amp;c. and that entituled, <hi>Reaſon againſt Railing,</hi> &amp;c. both printed <hi>1683.</hi> whereby their <g ref="char:V">Ʋ</g>ſur<g ref="char:EOLhyphen"/>pation, Dominion, and Lordſhip over the Conſciences of their Hearers, was ſuffi<g ref="char:EOLhyphen"/>ciently manifeſted; together with their illegal and arbitrary Proceedings in their
+<pb n="2" facs="tcp:101178:3"/>Courts of Judicature, or Quarterly Meetings about <hi>Meum</hi> and <hi>Tuum</hi> All which are largely handled in the ſaid two Books, to which I refer the Reader for farther Satisfaction.</p>
+               <p>Neither ſhall I here give a diſtinct and particular Account of their ſeveral Or<g ref="char:EOLhyphen"/>ders for Marriage, ſet forth by <hi>Geo. Fox,</hi> and his Party; <hi>viz.</hi> Sometimes they might marry at the Market Croſs, ſometimes at a General Meeting, ſometimes in private, where Twelve or more were aſſembled, as their Freedom was; and laſtly, they came to this, That none were either permitted or ſuffered to marry, unleſs the Parties publiſhed their Intenſions before two Meetings of Men, and two Meetings of Women, they being diſtinct and apart, each from other; and all this by the Order of <hi>Geo. Fox,</hi> &amp;c. who pretended his Commiſſion from Divine Revelation; as ſet forth in <hi>De Chr. Lib. p. 33.</hi> I ſay, as to their ſeveral Orders, and their Cen<g ref="char:EOLhyphen"/>ſures thereupon, they are particularly examined, and ſet forth, in my Book, <hi>Inno<g ref="char:EOLhyphen"/>cency vindicated, and Envy rebuked,</hi> &amp;c. printed <hi>1684.</hi>
+               </p>
+               <p>Neither ſhall I here give a particular Account, how I came to be of their Society; how I came to ſee and perceive their Errours, and leave them; and how I came to be ſatisifed in the Lawfulneſs of my going to the publick Worſhip: all which are trea<g ref="char:EOLhyphen"/>ted on in my Book entituled, <hi>The</hi> Quakers <hi>detected, and their Errours confuted,</hi> &amp;c. printed <hi>1686.</hi> to which, for farther Satisfaction, I refer the Reader.</p>
+               <p>Thus have I traced them ſtep by ſtep, and followed them in all their Turnings and Windings, Year after Year; ſhewing the Vanity of their Pretences to Infallibili<g ref="char:EOLhyphen"/>ty, and that <g ref="char:V">Ʋ</g>nchangeableneſs which they pretend to, above all other People. And what I have thus writ, I have offered to prove, and that on the penalty of an Hun<g ref="char:EOLhyphen"/>dred Pounds, but could never get them out of their <hi>Holes,</hi> and <hi>Dens,</hi> and <hi>Lurk<g ref="char:EOLhyphen"/>ing Places,</hi> (as <hi>G. F.</hi> formerly ſaid to others.) But now, at laſt, in their Anſwer to the Letter before mentioned, they pretend a Willingneſs to meet the Author of the ſaid <hi>Letter,</hi> and <hi>Looking-Glaſs,</hi> and that they are ready to come forth, as if in<g ref="char:EOLhyphen"/>deed, they would ſhew themſelves Men of ſome Conſcience; <hi>viz.</hi> own what they write, and prove what they ſay to be true; as every honeſt Man ought to do, and more eſpecially they, who pretend that they are Conſcientiouſly concern'd, and that a Neceſſity from the LORD is upon them, and that they write for the Glory of GOD, and moved thereto by His Eternal Spirit, and the like high Pretences. But, alas! 'tis quite otherwiſe; for they are ſo guilty of the Things charged againſt them, and of writing ſo many Lyes, and ſcandalous Defamations, under a pretence of the Spi<g ref="char:EOLhyphen"/>rit's Motion; and ſo conſcious to themſelves thereof, that, I am perſuaded, all that we can ſay or do, in order to bring them out of their <hi>Holes,</hi> and <hi>Dens,</hi> and <hi>Lur<g ref="char:EOLhyphen"/>king Places,</hi> is in vain, otherwiſe than that thereby they will more and more diſco<g ref="char:EOLhyphen"/>ver their own Guilt, and deep Hypocriſie; which to manifeſt, and make appear, I ſhall produce <hi>Ten Inſtances</hi> to the Conſideration of the judicious Readers. And thus much by way of Introduction.</p>
+               <closer>
+                  <dateline>Novemb. <hi>5. 1690.</hi>
+                  </dateline>
+                  <signed>Franc. Bugg.</signed>
+               </closer>
+            </div>
+            <div n="1" type="instance">
+               <pb n="3" facs="tcp:101178:3"/>
+               <head>The <hi>I.</hi> Inſtance of their Hypocriſie.</head>
+               <p>Letter to the <hi>Quakers. One While for, Another While againſt Fighting,</hi> &amp;c.</p>
+               <p>The <hi>Quakers</hi> Anſwer. <hi>This Charge is falſe, and unjuſtly ſtated.— And if any have written what the old Army might, or ſhould have done; this we may charitably ſuppoſe, was</hi> Ad Homi<g ref="char:EOLhyphen"/>nem, <hi>upon <hi>Their own Pretenſions,</hi>
+                  </hi> &amp;c.</p>
+               <p>
+                  <hi>Reply.</hi> MAY you charitably ſuppoſe ſo? I confeſs, How little Charity ſoever you have for others, yet I have always obſerved you to have a great Stock for your ſelves: But let me a little examine this Charity of yours, and ſee upon what Bottom it ſtands. You ſay, you have <hi>declared againſt Fighting; and that the Kingdom of Chriſt doth not allow His Servants to fight; and that you do not look upon it lawful for Chriſtians, in this Goſpel-Diſpen<g ref="char:EOLhyphen"/>ſation, to fight with a Carnal Weapon, in any Caſe whatſoever.</hi> But as for the Encouragement you have given others to fight, you do that <hi>Ad Hominem, <hi>Upon their own Pretenſions,</hi> viz. Oliver Cromwell,</hi> his Army, and Officers, preten<g ref="char:EOLhyphen"/>ding it lawful to fight, <hi>therefore,</hi> and <hi>thereupon</hi> you encourage them to fight; ſaying, O. C. <hi>Thou ſhouldst have invited all Nations upon Earth, that are againſt Popery, to come in, and join with thee againſt Popery; for thou haſt had Authority: Stand to it, loſe it not, nor abuſe it, nor let any other take thy <hi>Crown.</hi> — Let thy <hi>Soldiers</hi> go forth with a free, willing Heart, that thou mayeſt rock Nations as a Cradle,</hi> &amp;c. Counſel and Advice rejected, <hi>p.</hi> 36, 37. <hi>Geo. Fox.</hi>
+               </p>
+               <p>Alſo ſee <hi>Geo. Roff</hi>'s Book, entituled <hi>The Righteouſneſs of GOD,</hi> &amp;c. p. 11. a few Words to <hi>O. C. To thee,</hi> Oliver Cromwel, <hi>thus ſaith the LORD, I have choſen thee amongſt the Thouſands of the Nations, to execute My Wrath upon My Enemies, and gave them to thy Sword, with which <hi>I fought</hi> for the Zeal of My own Name; and gave thee the Enemies of My own Seed, to be a Curſe, and a Re<g ref="char:EOLhyphen"/>proach for ever; and made thee an Inſtrument againſt them. — And many have I cut down <hi>by My Sword in thy Hand,</hi> that My Wrath might be executed upon them to the utmoſt.</hi> Geo. Roff.</p>
+               <p>What! Could you thus write, and thus encourage <hi>O. C.</hi> his Army, and Officers, to fight, and that from the Word of the LORD, and at the ſame time believe it to be unlawful for Chriſtians to fight with a Carnal Weapon in any Caſe whatſoever? O groſs Hypocriſie! What! Does the Word of the LORD contradict the Kingdom of Chriſt? Are they divided? You ſay, the Kingdom of Chriſt doth not allow His Servants to fight, and you believe it utterly unlawful for Chriſtians to fight, yet you ſay to <hi>O. C. Let thy Sol<g ref="char:EOLhyphen"/>diers go forth with a free, willing Heart, that thou mayeſt rock Nations as a Cradle.</hi> Again you ſay, <hi>Thus ſaith the Lord, I have choſen thee,</hi> [O. C.] <hi>amongſt the Thouſands of the Nations, to execute My Wrath upon My Enemies, and gave them to thy Sword, with which I fought for the Zeal of My own Name,</hi> &amp;c.</p>
+               <pb n="4" facs="tcp:101178:4"/>
+               <p>Alſo in another Letter of <hi>Geo. Fox</hi>'s, to <hi>O. C.</hi> it is thus ſaid, <hi>O</hi> Oliver! <hi>hadſt thou been faithful, and thunder'd down Deceit, the</hi> Hollanders <hi>had been thy Subjects and Tributaries, and</hi> Germany <hi>had given up to do thy Will, and the</hi> Spa<g ref="char:EOLhyphen"/>niard <hi>had quiver'd like a dry Leaf,— the King of</hi> France <hi>ſhould have bowed un<g ref="char:EOLhyphen"/>der thee his Neck; the</hi> Pope <hi>ſhould have withered, as in Winter; the</hi> Turk, <hi>in all his Fatneſs, ſhould have ſmoak'd. Thou ſhouldſt not have ſtood trifling about ſmall things, but minded the Work of the LORD: As He began with thee at firſt, ſober Men, and true Hearts took part with thee: Oh! take heed, and do not ſlight ſuch, leſt thou weaken thy ſelf; and not diſown ſuch as the LORD hath owned: Thy Dread is not yet all gone, nor thy Amazement. <hi>Ariſe,</hi> and come forth; for hadſt thou been faithful, thou ſhouldſt have crumbled Nations to Duſt,</hi> &amp;c. Geo. Fox. With much more to the ſame purpoſe.</p>
+               <p>I ſay, What! Do you thus write, thus encourage, and thus ſtir up and rouſe your then dear Friend <hi>O. C.</hi> his Army, and Officers, to that which you believe to be utterly unlawful? Here is Deceit with a witneſs: What! Did ſober Men, and true Hearts take part with <hi>O. C.</hi> and you adviſed him not to ſlight ſuch, nor diſcourage them from fighting; and yet you ſay, the Kingdom of Chriſt doth not allow of Fighting, and you believe it unlawful to fight as aforeſaid? Here is <hi>Hocos Pocos</hi> indeed, and ſuch <hi>Legerdemain</hi> as I am ſure your ſerious <hi>Geo. Whitehead,</hi> as he would be eſteemed, never found in <hi>W. Rogers</hi>'s Writings; yea, ſuch <hi>Legerdemain,</hi> as few Conjurers have the face to venture upon. Here you have exceeded the whole Four Hundred of <hi>Ahab</hi>'s Falſe Prophets, 1 <hi>King.</hi> 22. for they propheſied falſly, in ſaying to the King, <hi>Go up to</hi> Ramoth Gilead, <hi>and proſper; for the LORD will deliver it into thy Hands,</hi> &amp;c. yet all this while they did not believe it utterly unlawful for the <hi>Jews</hi> to fight.</p>
+               <p>In ſhort, You either believe it lawful to fight, or you do <hi>Not:</hi> If you do <hi>Not,</hi> then did you greatly diſſemble with your then dear Friend, and noble Champion, as you elſewhere call him: If you <hi>Did,</hi> then have you played the Hypocrites with your People, and that greatly too, for many Years, in tel<g ref="char:EOLhyphen"/>ling them 'tis not lawful to fight; and yet, at the ſame time, believe it law<g ref="char:EOLhyphen"/>ful, and encourage ſober Men, and true Hearts to fight, and that from the Word of the LORD. Surely I need go no farther to prove you guilty of as manifeſt Hypocriſie, as the World can produce.</p>
+               <p>But, for a <hi>Salvo,</hi> you now tell us, you gave this Advice <hi>Ad Hominem, <hi>Upon their own Pretenſions;</hi>
+                  </hi> not that you either believed or thought it lawful to fight. But then you ſhould have been plain and ſincere with <hi>O. C. &amp;c.</hi> and ſaid, We indeed ſtir you up to fight, adviſe and counſel you to fight,
+<note place="margin">If, after this, their Hearers will go to Gaol, before they will pay two Pence towards Drums and Colours, or pay the Trained Soldiers their Wages, I pity their wilful Blindneſs and Ignorance.</note> and that from the Word of the LORD, <hi>&amp;c.</hi> But withal, mark well what we have to ſay; we do all this upon your <hi>own Pre<g ref="char:EOLhyphen"/>tenſions:</hi> You pretend it lawful to fight, and there<g ref="char:EOLhyphen"/>upon we thus encourage you; for, to be plain with you, we believe it utterly unlawful for you to fight
+<pb n="5" facs="tcp:101178:4"/>at all with a Carnal Weapon; for the Kingdom of Chriſt doth not allow of it, but utterly forbids Fighting in any Caſe whatever.</p>
+               <p>Oh! Bluſh, and be aſhamed, ye Hypocrites! Yea, be confounded for ever, ye groſs Diſſemblers! What! Did you give this Advice, and this Counſel, and that from the Word of the LORD, to ſuch a Practice, and ſuch a Work, as you knew was not lawful? So take it which way you will, and it car<g ref="char:EOLhyphen"/>ries two Faces: For if Fighting in any Caſe be unlawful, as you ſeem ſome<g ref="char:EOLhyphen"/>times to believe, (and to be ſure you have made your Diſciples ſo to believe it, as that they are not only for the Doctrine of <hi>Non-Reſiſtance,</hi> but alſo for your Doctrine of <hi>Non-Aſſiſtance,</hi>) then you ought not to have adviſed others to Fighting. Again, If you believe it is lawful to fight, then, if you would be <hi>Conſtant,</hi> as you would be thought to be, why do not you adviſe King <hi>William</hi> to invite all Nations upon Earth that are againſt Popery, to come and join with him againſt Popery, that he may rock <hi>Ireland</hi> and <hi>France</hi> as a Cradle? But you ſay, you gave that Advice to <hi>O. C.</hi> upon <hi>his own Pretenſions;</hi> not that you believed it lawful. I anſwer, King <hi>William</hi> alſo pretends it lawful: And ſince you then play'd the Hypocrite, why not now? And ſo <hi>ad infinitum.</hi>
+               </p>
+            </div>
+            <div n="2" type="instance">
+               <head>The <hi>II.</hi> Inſtance of their Hypocriſie.</head>
+               <p>Letter to the <hi>Quakers. One While againſt, Another While for Kingly Government.</hi>
+               </p>
+               <p>The <hi>Quakers</hi> Anſwer. <hi>The Firſt Part of this Charge is falſe.</hi>
+               </p>
+               <p>
+                  <hi>Reply.</hi> FOR a full Reply to this their Anſwer, I refer the Reader to the <hi>Quakers unmask'd,</hi> &amp;c. But ſo much thereof as may ſhew that the Charge is not falſe, unleſs they be lately amended, (which if they be, they ought to retract and condemn their former Wri<g ref="char:EOLhyphen"/>tings,
+<note n="*" place="margin">But if ſo, then they would appear fallible Men, and, as ſuch, be miſtaken, and do ſome things whereof they ought to repent. But this they cannot admit of, for it would ſpoil the faſhion of their Infallibility, and marr the Beauty of their Perfe<g ref="char:EOLhyphen"/>ction.</note>) I ſhall recite out of a Paper writ to the <hi>Presbyterians,</hi> by <hi>Geo. Fox,</hi> a little before the Re<g ref="char:EOLhyphen"/>ſtoration, ſo much as ſhall juſtifie the Charge againſt them, <hi>&amp;c.</hi> See <hi>pag.</hi> 1. <hi>To all you that deſire an Earthly King in</hi> England,— <hi>who profeſs your ſelves Chriſtians, whether Presbyterians or others:— Do not the Prieſts, Presbyterians, and others, cry for an Earthly King? And is not this the ſame Nature the</hi> Jews <hi>were in? And do not they,</hi> in this, <hi>crucifie Jeſus?</hi> In another Paper of his, <hi>pag.</hi> 15. <hi>The Word of the LORD GOD to you who are called Presbyterians.— You are wholly in Darkneſs, given up to it;— and</hi> ſuch <hi>would have a King to reign;— for there is that Nature that would have an Earthly King to reign, in which Nature lodgeth the Murtherer,</hi> ſaid your chief Prophet. Geo. Fox.</p>
+               <pb n="6" facs="tcp:101178:5"/>
+               <p>Thus have I given a ſhort hint, that you were once againſt Kingly Go<g ref="char:EOLhyphen"/>vernment; being loth to mention over much, in hopes, as to that, you are ſomewhat amended, for you ſoon turn'd with the Times; which ſhews your Inconſtancy, and that you are no more infallible than others; (which is the main Reaſon why I mention it.) And for Example, ſee your <hi>Declaration</hi> you gave forth, ſoon after the Reſtoration of King <hi>Charles</hi> II. ſaying, <hi>We do de<g ref="char:EOLhyphen"/>clare that we do love, own, and honour the King, and the preſent Government.</hi> Again, in another Book, you ſay to the King, <hi>If thou take ſome ſpeedy Courſe for the repealing and making void thoſe cruel Laws,— haply thou mayeſt be as</hi> Mo<g ref="char:EOLhyphen"/>ſes, <hi>to ſtand in the Gap betwixt GOD and thy People,</hi> &amp;c. Viſitation to the King, <hi>pag.</hi> 7. Again, in the Trial of <hi>Geo. Fox,</hi> 1664. <hi>pag.</hi> 8, 10. he ſaith, (the Oath of Allegiance being tender'd him,) <hi>viz. If I could take any Oath at all, upon any Occaſion, I ſhould take this Oath; for I honour all Men, much more the King,</hi> &amp;c.</p>
+               <p>Now <hi>Geo. Fox, Geo. Whitehead, &amp;c.</hi> Where is the Conſtancy you boaſt of? What is become of your Unchangeableneſs, who one Year ſay, and the next Year unſay; for this to day, and for that to morrow; facing about like the Weather-cock, as in the Caſe fore-mentioned? And yet it is a common Maxim with you, that if any write againſt you, they write againſt Truth; and if any ſee your Hypocriſie, and leave and forſake you, that they are gone from Truth; and that if any come to you, and join with you, they then pre<g ref="char:EOLhyphen"/>ſently are reputed to own Truth, <hi>&amp;c.</hi>
+               </p>
+               <p>I will conclude this <hi>Second Inſtance</hi> with the Words of <hi>W. Penn,</hi> the <hi>Paren<g ref="char:EOLhyphen"/>theſis</hi> excepted, to Mr. <hi>Doelittle,</hi> Mr. <hi>Manton,</hi> Mr. <hi>Baxter,</hi> and Eighteen more, both Presbyterians and Independants, in his Book entituled, <hi>A juſt Rebuke to Twenty one Divines,</hi> pag. 25. <hi>I could ſet out this part of your Story to the Life, but at this time ſhall forbear; n<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> do I delight in this: But ſince I muſt needs men<g ref="char:EOLhyphen"/>tion</hi> (your Hypocriſie, and your baſe Temporizing,) <hi>can I do it more candidly, than in your own Words; I wiſh there had been no need for it.</hi>
+               </p>
+            </div>
+            <div n="3" type="instance">
+               <head>The <hi>III.</hi> Inſtance of their Hypocriſie.</head>
+               <p>Letter to the <hi>Quakers. One While againſt, Another while for Popery,</hi> &amp;c.</p>
+               <p>The <hi>Quakers</hi> Anſwer. <hi>This is falſe,</hi> &amp;c.</p>
+               <p>
+                  <hi>Reply.</hi> FAlſe! How can you ſay it is falſe, and not bluſh? Were you not againſt Popery, when you wrote, and ſaid, as followeth, <hi>viz. To all you, called Papiſts; to your whole Body, and Head at</hi> Rome, <hi>the Word of the LORD reacheth: Thus aſſuredly ſaith the LORD, My Controverſie is againſt you; and My Vengeance, and Wrath, and Fury ſhall for ever, World without End, be upon you: And though you pardon one another, yet will not I pardon any One of you.</hi> And, ſays <hi>W. Penn,</hi> in his <hi>Caveat againſt Popery: Let the Papiſt firſt recant his voluminous Errours; but above all, let us have good Teſtimony of his hearty Sorrow for that <hi>Sea</hi> of <hi>Blood ſhed</hi> in</hi> England, France, Holland, Ireland, Spain, Italy,
+<pb n="7" facs="tcp:101178:5"/>Savoy, Switzerland, <hi>and</hi> Germany, <hi>of many Thouſands of poor Proteſtants, that for pure Conſcience could not conform,</hi> &amp;c. and to this purpoſe in many other Books. But theſe Two Paſſages are enough to ſhew that you were once againſt Popery; and that ſince you have been as much for the Papiſts: See your Book, Entituled, <hi>A Defence of the</hi> D. <hi>of</hi> Buck. <hi>&amp;c.</hi> 1685. in Reply to a Church of <hi>Eng.</hi> Man; who anſwered the ſaid Book: And your Book, called, <hi>A Reply to the Anſwer of the Man of no Name, to the D. of</hi> Buck, <hi>&amp;c.</hi> p. 22, 23. Alſo another, call'd <hi>A Perſuaſive to Moderation, ſubmitted to the late King,</hi> 1686. And another of your Books, called, <hi>Good Advice to the Church of</hi> England, <hi>&amp;c.</hi> Another, <hi>Advice to the</hi> Proteſtant Diſſenters: <hi>ſhewing it, their Intereſt to repeal the <hi>Teſts.</hi>
+                  </hi> By all which ſaid Books, and divers others, ſpread up and down the Nation in the late King <hi>James</hi>'s Reign, were the Papiſts vin<g ref="char:EOLhyphen"/>dicated; and contrary to your former Writings, ſaid to be loyal in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Holland;</hi> charging the Proteſtants with being the Cauſe of <hi>Burning</hi> poor <hi>Joan</hi> of <hi>Kent,</hi> a famous Woman; and that <hi>Merely,</hi> as you ſaid, for Re<g ref="char:EOLhyphen"/>ligion; and by that Example <hi>Taught</hi> the <hi>Romaniſts,</hi> &amp;c. A few more Inſtances I may recite, (and ſo refer the Reader to the <hi>Looking-Glaſs for the Quakers, &amp;c.</hi>
+                  <note place="margin">
+                     <hi>viz.</hi> The <hi>Church of</hi> England-<hi>Man.</hi>
+                  </note> Where the ſaid Books are more largely reci<g ref="char:EOLhyphen"/>ted,) <hi>viz. I cannot admire his Wiſdom, Manners, or Juſtice, in his Reflexions upon the</hi> Roman Catholicks, <hi>after the Aſſurance of ſo great an One of that Communion, has given him and his Friends of their Security and Protection; — for the late occaſion he takes; let him be just, and he will find the Excluders almoſt every</hi> Sunday <hi>at their Pariſh-Churches: And if three quarters of them were to pray for their Lives, it may be they could better read their <hi>Clergy</hi>
+                  </hi>
+                  <note n="*" place="margin">
+                     <hi>viz.</hi> Their Neck-Verſe.</note>, <hi>than ſay their Prayers without the publick Liturgy. One thing I muſt ſay, the</hi> Roman Catholicks <hi>have been Loyal in</hi> England <hi>and</hi> Holland. <hi>It happens now that</hi> GOD <hi>and</hi> Caeſar <hi>are both of a Mind; which perhaps does not always fall out, at leaſt about the point in hand.</hi> Edward VI. <hi>by Archbiſhop</hi> Cranmer <hi>was <hi>Compelled</hi> to ſign a Warrant to <hi>Burn</hi> poor <hi>Ioan</hi> of <hi>Kent,</hi> a famous Woman, but counted an Enthuſiaſt; thus even <hi>Proteſtants</hi> began with <hi>Brood</hi> for <hi>Mere Religion,</hi> and <hi>Taught</hi> the</hi> Romaniſts <hi>in ſucceeding times how to deal with them.</hi>
+               </p>
+               <p>Come on, ye infallible Doctors, Is not this for, and in favour of the Pa<g ref="char:EOLhyphen"/>piſts and Popery; and to the purpoſe againſt the Proteſtants; and at ſuch a juncture too, whenas the Proteſtant Cauſe lay a bleeding? And notwith<g ref="char:EOLhyphen"/>ſtanding your former writings againſt Popery when Proteſtants flouriſhed; yet in the Reign of K. <hi>J.</hi> II. at that ſeaſon, how did your Books and Papers in favour of the Popiſh Intereſt, fly about, Book after Book, Letter after Letter, Addreſs upon Addreſs; with Publick Prayers for K. <hi>J.</hi> II? See the <hi>Looking-Glaſs, &amp;c.</hi> Which diſcover your profound Politicks: And alſo the <hi>Letter to the Quakers, &amp;c.</hi> Which juſtly and ſeaſonably reproves your then Extravagance, and your late Silence.</p>
+            </div>
+            <div n="4" type="instance">
+               <pb n="8" facs="tcp:101178:6"/>
+               <head>The <hi>IV.</hi> Inſtance of their Hypocriſie.</head>
+               <p>Letter to the <hi>Quckers. Why do you not pray for, and addreſs your ſelves to King</hi> William <hi>and Queen</hi> Mary, <hi>as heartily, and as publickly as you did to King</hi> James II?</p>
+               <p>The <hi>Quakers</hi> Anſwer. <hi>This is falſe; though for ſome Reaſons we have not been for<g ref="char:EOLhyphen"/>ward to ſound a Trumpet of our Gratitude, &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Reply.</hi> ARE you not aſhamed to ſay 'tis falſe? When did you ever pray for, and Addreſs your ſelves to K. <hi>W.</hi> and Q. <hi>M.</hi> as publickly as you did to the late K. <hi>J.</hi> II? And is it not as commendable a thing to ſound a Trumpet of the Fame and Noble Acts of a Proteſtant Prince, who has ventured his Life, and all that is, or can be dear to him in this World, in de<g ref="char:EOLhyphen"/>fence of our Religion, Laws, and Liberties, as it was to ſound a Trumpet from <hi>England</hi> to <hi>Scotland,</hi> and from <hi>Scotland</hi> to <hi>England,</hi> and through each Kingdom, of his Fame, who, upon his own Principles, could not ſo much as give Liberty to Proteſtants; though in Policy he did: And becauſe you ſay, it is falſe; I may recite part of your Addreſſes and Prayers for K. <hi>J.</hi> II. (and do you make it appear when you did the like, and as publickly for K. <hi>W.</hi> and Q <hi>M.</hi>) viz. <hi>We pray GOD to bleſs the King,</hi> viz [<hi>King</hi> J. II.] <hi>his Royal Femily, and People, with Grace and Peace; and that after a long and proſ<g ref="char:EOLhyphen"/>perous Reign here, he may receive a better Crown amongſt the Bleſſed; which is the <hi>Pre yer</hi> of,</hi> &amp;c. <hi>London,</hi> April 1687.</p>
+               <p>Again, <hi>We cannot but with grateful Hearts both admire and acknowledge the Provi<g ref="char:EOLhyphen"/>dence of GOD, that made the King's retiring into our Countrey,</hi> [i. e. <hi>Scotland,</hi> 1679.] <hi>give a happy turn to his Affairs, to the defeating and diſappointing the De<g ref="char:EOLhyphen"/>figns of his Enemies:—We do juſtly conceive our ſelves obliged by a ſpecial Tie, to praiſe GOD for His Goodneſs, in carrying the King through, and over all his Troubles; ſince by the ſame Providence, and at the ſame time, by which the LORD began in that more obſervable manner, to evidence His Care of him; He made him the happy Inſtrument to deliver us from our Troubles; ſo that the proſperity of his Affairs, and our peaceable fruition of the exerciſe of our Conſciences, beareth the ſame Date, &amp;c.</hi> June 1687.</p>
+               <p>But now in your Anſwer to the Letter, you ſay, <hi>Good Kings and Govern<g ref="char:EOLhyphen"/>ments you never oppoſed; though you liked not bad ones:</hi> Pray how ſhall we know which you account good Kings, and good Governments, but by your Words and Carriage towards them, and by your publick Acknowledgments of the Be<g ref="char:EOLhyphen"/>nefits you receive by them? But your Hypocriſie is manifeſt: And I may ſay to you, as you once ſaid to the <hi>Paesbyterians,</hi> and others, in your Book ſtiled, <hi>Truth's Character of Profeſſors,</hi>
+                  <note place="margin">
+                     <hi>viz.</hi> Your-own Character.</note> 
+                  <hi>&amp;c. And know aſſu<g ref="char:EOLhyphen"/>redly, that if you come to be dealt withal, as you have dealt with others; then ſhall thoſe things which you have done to the Innocent become your Burthen.—And as you have ſought to make others ridiculous; even ſo ſhall you become contemptible in the eyes of thoſe, which you by your Flatteries have fawned upon,</hi> &amp;c.</p>
+            </div>
+            <div n="5" type="instance">
+               <pb n="9" facs="tcp:101178:6"/>
+               <head>The <hi>V.</hi> Inſtance of their Hypoctiſie.</head>
+               <p>Letter to the <hi>Quakers. And then you branded the Presbyterians, and others, with Fighting Principles,</hi> &amp;c.</p>
+               <p>The <hi>Quakers</hi> Anſwer. <hi>His unjuſt Reflections about the Presbyterians.</hi>
+               </p>
+               <p>
+                  <hi>Reply.</hi> TO reflect on you about the Presbyterians was not unjuſt, neither did the Author of the ſaid Letter do you any Wrong in that mat<g ref="char:EOLhyphen"/>ter; for I well remember the Sale of that Book, and the Juncture of Time in which it was expoſed; even when the great Talk was of a Proteſtant Plot. 'Tis true, your Book had, by the Title of it, the Face of a Lamb, <hi>viz. Plain and peaceable Advice to the Presbyterians;</hi> but in <hi>pag.</hi> 1. you ſay, that <hi>Their Principle was, to fight for their Religion, and to promote their pretended Religion by the power of the Sword; and that their Miniſters always laboured to perſwade them to it,</hi> &amp;c. Again, ſee your Anſwer to <hi>John Faldo,</hi> in your Book, <hi>Quakeriſm a new Nick-name,</hi> &amp;c. printed, 1673. <hi>pag.</hi> 109. <hi>And why</hi> poor Nonconformiſts, <hi>af<g ref="char:EOLhyphen"/>ter all their preach'd up Battels, Spoils, Plunders, Sacrileges, Decimations,</hi> &amp;c. Again, <hi>pag.</hi> 119. <hi>Theſe are true Goſpel-Miniſters, whoſe Goſpel is Peace on Earth, and Good Will towards Men; and <hi>Not</hi> Garments rolled in the <hi>Blood</hi> of <hi>Rings,</hi> and <hi>Princes,</hi> and <hi>Rulers,</hi> and <hi>People:</hi> No worldly Armies, Battels, and Vi<g ref="char:EOLhyphen"/>ctories; Trophies, Spoils, Sequeſtrations, Decimations, and the like <hi>Blood-thirſty</hi> and <hi>Tyrannical</hi> Projects, in which</hi> John Faldoe <hi>and his poor Nonconforming Mi<g ref="char:EOLhyphen"/>nisters have had their Hands almoſt over Head and Ears, till they had well nigh loſt their Ears and Heads too,</hi> &amp;c. And for more of this nature, ſee your Book ſtyled <hi>The Way caſt up, pag.</hi> 52, 53, 54, 23. All which conſidered, and com<g ref="char:EOLhyphen"/>pared with your Advice to <hi>Oliver Cromwell,</hi> his Army, and Officers, render you both perfidious and treacherous; inaſmuch as you, with them, were en<g ref="char:EOLhyphen"/>gaged in the ſame Cauſe and Quarrel, and ſtood in as much need of an Act of Oblivion as they.</p>
+            </div>
+            <div n="6" type="instance">
+               <head>The <hi>VI.</hi> Inſtance of their Hypocriſie.</head>
+               <p>
+                  <hi>'Tis a ſhame for any Bookſeller to promote</hi> [i. e.
+<note place="margin">The <hi>Quakers</hi> Anſwer.</note> 
+                  <hi>their Books,</hi>] <hi>without diſcovering the Author <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> that to get a Farthing, or an Halfpeny by any ſuch lying Libels, they ſhould thus ſell or expoſe the Reputation of their honeſt Neighbours to Reproach and Infamy.</hi>
+               </p>
+               <p>
+                  <hi>Reply.</hi> I Cannot but take notice of this Paſſage, and how the Author of it reſembles <hi>Cuthbert Tonſtal,</hi> once Biſhop of <hi>London;</hi> as may be ſeen in my Book, <hi>De Chriſtiana Libertate, pag.</hi> 203, to <hi>pag.</hi> 206. where I have at large ſet forth what Enemies the then Papiſts were to the Printing, and to the Spreaders and Promoters of ſuch Books as the Proteſtants writ againſt them,
+<pb n="10" facs="tcp:101178:7"/>and their Errours; diſcovering their Hypocriſies, and holy Cheats; and wherein <hi>Geo. Whitehead,</hi> and his Brethren, follow their Steps directly. And as one Inſtance thereof, I have at large recited your Excommunication of <hi>J. Bernard,</hi> Merchant, for diſpoſing of <hi>William Rogers</hi> his Book, entituled, <hi>The Chriſtian Quaker diſtinguiſhed from the Apoſtate and Innovator, in five Parts,</hi> &amp;c. And, for a tuller Diſcovery of the Teachers and Leaders of the Quakers re<g ref="char:EOLhyphen"/>ſembling their elder Brethren the Papiſts, I have alſo therein ſhewed, that <hi>Benjamin Clark,</hi> their Bookſeller, might ſell Ballads, Play-Books, Papiſt-Books, Gipſie-Books, yea, Ba—Books, and yet not be excommunica<g ref="char:EOLhyphen"/>ted, <hi>&amp;c.</hi> And many other things I have therein recited, to ſhew how their Carriage to <hi>William Rogers,</hi> my ſelf, and others, bear the ſame Complexion with the Popiſh Biſhops to the then Proteſtants; which is too large here to inſert, <hi>&amp;c.</hi>
+               </p>
+               <p>And <hi>Geo. Whitehead, &amp;c.</hi> Do you think to affright the <hi>London</hi> Bookſellers? No, no; they do not fear your Excommunication, they are not terrified at your Cenſures; for they know (or may do, at leaſt) that there are none like you for expoſing the Reputation of your honeſt Neighbours to Shame and Infa<g ref="char:EOLhyphen"/>my; as your Books, <hi>Judgment fixed, &amp;c.</hi> and <hi>S. Cater</hi>'s <hi>Narrative, &amp;c.</hi> do ſufficiently demonſtrate, as well as divers others of your malicious Books, and lying Pamphlets; inſomuch as that ſome of you have been aſhamed to own your own Writings. And for full Diſcovery thereof, I refer the Rea<g ref="char:EOLhyphen"/>der to my Book before mentioned, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div n="7" type="instance">
+               <head>The <hi>VII.</hi> Inſtance of their Hypocrtſie.</head>
+               <p>IN your Book, Judas <hi>and the</hi> Jews, <hi>&amp;c.</hi> you ſay, <hi>None need to give us Diſ<g ref="char:EOLhyphen"/>cerning, or Judgment: Chriſt hath furniſhed us already, and doth on</hi> All <hi>Oc<g ref="char:EOLhyphen"/>caſions,</hi> &amp;c. And in <hi>Geo. Fox</hi> his Book, <hi>The great Myſtery,</hi> &amp;c. <hi>pag.</hi> 89. you ſay, that <hi>The Quakers have a Spirit given to them, beyond all the Fore-fathers; and they can diſcern who are Saints, who are Devils, and who are Apoſtates, without ſpeaking ever a Word,</hi> &amp;c.</p>
+               <p>Now this is either <hi>True</hi> or <hi>Falſe:</hi> You are either thus qualified with this infallible Judgment, or you are not. If <hi>True,</hi> How comes it to paſs that you have printed, Geo. Smith <hi>is a well meaning Man: That he hath lived a blameleſs Converſation from his Youth: That ever ſince he has been convinced, which is thirteen or fourteen Years, he hath lived uprightly, according to his Mea<g ref="char:EOLhyphen"/>ſure?</hi> And why have you vindicated <hi>Tho. Rudyard,</hi> and reſerred the Readers to your Brother <hi>Robert Sandiland</hi>'s Book? I ſay, If you be thus qualified with ſuch Diſcerning, as to know who are Saints, and who are Devils, and who Apoſtates, without ſpeaking a Word, and that at all Times too, and on all Occaſions; I ſay, if it be thus, what grand Hypocrites are you to canoniſe ſuch as theſe for Saints; ſaying, they are well-meaning Men, walk upright<g ref="char:EOLhyphen"/>ly thirteen or fourteen Years together; and yet at the ſame time know, upon
+<pb n="11" facs="tcp:101178:7"/>this your infallible Principle, that there is not a Word true in all you write of them? But if <hi>Falſe,</hi> and that you are not thus qualified, but as fallible, and as ſubject to be miſtaken, as other Men,
+<note n="*" place="margin">Which is manifeſt, or elſe you would not make Saints of <hi>Geo. Smith, Rob. Sandiland, Tho. Rudyard, John Tyſoe;</hi> and ſay they are well meaning Men, have walked uprightly thirteen or fourteen Years to<g ref="char:EOLhyphen"/>gether, <hi>&amp;c.</hi> unleſs you be ar<g ref="char:EOLhyphen"/>rant Cheats indeed.</note> then what Hypocrites are you, thus to pretend to be endued with ſuch an infallible Judgment, at all Times, and on <hi>All Occaſions,</hi> as to know who are Saints, and who are Devils, <hi>&amp;c.</hi> and not a Word of Truth in all your Pretences? O groſs Diſſem<g ref="char:EOLhyphen"/>blers! yea, Impoſtors! and ſuch a Generation of ſelf-conceited Phariſees, as no Age before this ever produced.</p>
+               <p>However, thus much may be learned from hence, that you exactly re<g ref="char:EOLhyphen"/>ſemble your infallible <hi>Siſter,</hi> who will ſaint any, let them be never ſo noto<g ref="char:EOLhyphen"/>riouſly wicked, if they do but ſome notable meritorious Work for Holy Church, ſome notable Project, though it be as grand a Cheat as ever was; when, at the ſame time, ſuch as oppoſe her, and write againſt her, and diſ<g ref="char:EOLhyphen"/>cover her Errours, ſhe will ſlander, abuſe, yea, call them Devils, and at laſt perſecute them them to death: And 'tis only in the laſt that ſhe exceeds you; and of that there can be no Trial, ſince you never yet had Power: And GOD grant you never may have Power put into your Hands; for you that are thus deceitful, thus treacherous, thus infamouſly ſlanderous, as your ſaid two Books, <hi>Judgment fixed,</hi> &amp;c. and <hi>S. Cater</hi>'s <hi>Narrative,</hi> &amp;c. declare you to be; Sainting <hi>Geo. Smith, Tho. Rudyard, Rob. Sandiland, John Tyſoe,</hi> and the reſt of your Tools, that act for you, and do your Drudgery, how wicked ſoever they be: And ſuch as oppoſe you, and cannot ſubmit themſelves to your Ty<g ref="char:EOLhyphen"/>ranny; them you call <hi>Beaſts, Dogs, Wolves, Enemies of all Righteouſ<g ref="char:EOLhyphen"/>neſs, Children of the Devil,</hi> yea, <hi>Devils Incarnate.</hi> And that your Diſti<g ref="char:EOLhyphen"/>ples may believe it, and take all you ſay for Truth, you tell them,
+<note n="*" place="margin">If their Hearers believe their Pretenſions, then they are leavened with the Leaven of the Phariſees indeed.</note> that you are endued with infal<g ref="char:EOLhyphen"/>lible Judgment, and can tell who are Saints, and who are Devils, without ſpeaking ever a Word. O dreadful Hypocriſie!</p>
+            </div>
+            <div n="8" type="instance">
+               <head>The <hi>VIII.</hi> Inſtance of their Hypocriſie.</head>
+               <p>THE next Thing that I ſhall obſerve, wherein you deceive your People, is, your Pretence to preach and ſuffer, record Marriages, and other publick Offices, freely, without Money, Gifts, or Rewards: And by reaſon of this fair Pretence, how have you not only deceived the Simple, but alſo taken Occaſion thereby to vilifie, and ſo ſpeak Contemptuouſly of all other publick Preachers? <hi>Firſt,</hi> The National, for taking Tythes, and other Dues, as a ſetled Maintenance by Law eſtabliſhed; which is not ſo burthen<g ref="char:EOLhyphen"/>ſome as you are to many of your Hearers. And <hi>Fext,</hi> The Presbyterians
+<pb n="12" facs="tcp:101178:8"/>and Independents
+<note n="*" place="margin">See <hi>G. F</hi>'s Epiſtle to your Book entituled, <hi>The Divini<g ref="char:EOLhyphen"/>ty of Chriſt,</hi> &amp;c.</note>, whom you beſpatter about their Baſon and Platter, wherein perhaps their Hearers put their free Contribution for their Mini<g ref="char:EOLhyphen"/>ſters, as a neceſſary Subſiſtence for them, accor<g ref="char:EOLhyphen"/>ding to their Ability, and their Miniſters Neceſſity. And all this while, va<g ref="char:EOLhyphen"/>lue your ſelves upon your free Preaching, free Suffering, free Writing, and free Recording; when, at the ſame time, you know 'tis common for all theſe Church-Officers amongſt you to take Money;
+<note n="*" place="margin">Which I have long ſince, of<g ref="char:EOLhyphen"/>fered to prove to your Faces.</note> Some Ten Pounds at a time, ſome Three Pounds at a time, ſome Fifty Pounds <hi>per Annum;</hi>
+                  <note n="†" place="margin">As ſet forth in the <hi>Painted Harlot,</hi> p. 47. printed, 1682. and reprinted in the <hi>Quakers detected,</hi> &amp;c. p. 23. printed, 1686.</note> ſome Thirty Pounds for writing five or ſix Sheets, to teach Children in the Ways of GOD, as you pre<g ref="char:EOLhyphen"/>tend, and Twelve Pence for writing of Marriage-Certificates, being ten or twelve Lines, <hi>&amp;c.</hi>
+               </p>
+               <p>And <hi>Geo. Fox</hi> himſelf, who before he was a Preacher, was but a poor Jour<g ref="char:EOLhyphen"/>ney-man Shoe-maker with <hi>George Gee</hi> of <hi>Mancheſter,</hi> had no leſs than Twelve or Thirteen Hundred Pounds, as <hi>William Rogers</hi> relates in his <hi>Chriſtian Qua<g ref="char:EOLhyphen"/>ker diſtinguiſhed,</hi> &amp;c. <hi>Part</hi> V. <hi>pag.</hi> 48, 49. and by <hi>Geo. Fox</hi> never denied, that I have heard of: Yea, and <hi>S. C.</hi> and many others that I can name, who have by Preaching, riſen to great Fortune, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Object.</hi> But ſome may object, That when they have charged ſome of your Preachers and Hearers with your Taking Money, they have denied it.</p>
+               <p>
+                  <hi>Anſw.</hi> Deny! That is very common with you; at leaſt, ſay they, <hi>as ſta<g ref="char:EOLhyphen"/>ted:</hi> But produce your Books of Accounts touching theſe Matters, and I will make appear much more than I have ſaid; and yet ſo cunning are you, that ſuch as contribute, do not know it. This is a Myſtery, I confeſs; but you know, thus it is. And your Way is, when Caſh grows low, to iſſue out (I do not ſay a Proclamation, but) a General Epiſtle for the Service of ſuch as you pretend; (but being rightly and truly interpreted, your own Service;) for as Money is ſaid to be the Sinews of War, ſo your Experience tells you, 'tis a great Encouragement to your Preachers and <hi>Paraſites.</hi> And this Gene<g ref="char:EOLhyphen"/>ral Epiſtle, thus ſent through <hi>England</hi> and <hi>Wales;</hi> and when this general Col<g ref="char:EOLhyphen"/>lection is made for the Service of Truth, as you ſpeak, and as your Hearers believe, 'tis then tranſmitted to <hi>London;</hi> where <hi>Geo. Fox,</hi> and a few of his Party, diſpoſe of it as they ſee meet: And no doubt but much, if not moſt of it, is given to ſuch as are for carrying on your Deſigns; but no Account returned to the Donors and Givers of this Money; which, if there was, and that you did not exclaim againſt all other Preachers, who ſhould have any thing to do or ſay againſt this your Method, though indeed it is a cunning one? But your grand Hypocriſie ſtands chiefly in this, That you take Mo<g ref="char:EOLhyphen"/>ney, Gifts, and Rewards, for Preaching, Teaching, Writing, and Suffering; and at the ſame time pretend to do all theſe things freely, without Money, and without Price. Herein ſtands your Deceit.</p>
+               <pb n="13" facs="tcp:101178:8"/>
+               <p>
+                  <hi>Object.</hi> Perhaps ſome may object, and ſay; Surely, if theſe free Goſpellers do take Money, ſome others have taken notice of it as well as you; and at one time or other, ſome of themſelves will diſcloſe their Secrets.</p>
+               <p>
+                  <hi>Anſw.</hi> Yes: And as an Inſtance thereof, I ſhall recite <hi>William Rogers</hi> againſt them; who, in his <hi>Second Scourge for</hi> Geo. Whitehead, <hi>pag.</hi> 3, 4, 5. ſhews great part of their Intrigues; for which <hi>Tho. Ellwood</hi> makes an Apology for his Brethren taking Money for Preaching, <hi>&amp;c.</hi> See 1ſt <hi>W. R.</hi>
+               </p>
+               <lg>
+                  <l>
+                     <hi>If any ask what City ſits as Queen</hi>
+                  </l>
+                  <l>
+                     <hi>Within her Circuit, ſince 'tis plainly ſeen</hi>
+                  </l>
+                  <l>
+                     <hi>She's high and proud:</hi>
+                     <note n="*" place="margin">Meaning your Yearly, and Se<g ref="char:EOLhyphen"/>cond Day Mee<g ref="char:EOLhyphen"/>tings in <hi>London;</hi> and taking them<g ref="char:EOLhyphen"/>ſelves to be Chriſt's only Church, <hi>&amp;c.</hi>
+                     </note> 
+                     <hi>Proud</hi> London <hi>is the place</hi>
+                  </l>
+                  <l>
+                     <hi>That ſits as Queen, where Pride ſeems no Diſgrace.</hi>
+                  </l>
+                  <l>
+                     <hi>And yet when ſhe <hi>Rome's Siſter</hi> is but call'd,</hi>
+                  </l>
+                  <l>
+                     <hi>She winces like touch'd Horſes that are gall'd.</hi>
+                  </l>
+                  <l>
+                     <hi>Confuſion her attends, next follows Woe;</hi>
+                  </l>
+                  <l>
+                     <hi>For thus ſhe whirls, but GOD knows where ſhe'll go.</hi>
+                  </l>
+                  <l>
+                     <hi>Who, when they wanted Money to proceed,</hi>
+                  </l>
+                  <l>
+                     <hi>The Church her Caſh then did ſupply her Need;</hi>
+                  </l>
+                  <l>
+                     <hi>And therefore, when her Caſh was empty'd, ſhe</hi>
+                  </l>
+                  <l>
+                     <hi>Crav'd Money, for to ſerve the Miniſtry.</hi>
+                  </l>
+                  <l>
+                     <hi>At length her Papers, like to Briefs, did cry</hi>
+                  </l>
+                  <l>
+                     <hi>For <hi>Monyn, Moner,</hi> for the Miniſtry.</hi>
+                  </l>
+                  <l>
+                     <hi>And when that Practice was diſlik'd by ſome,</hi>
+                  </l>
+                  <l>
+                     <hi>She ſeem'd like one whoſe Downfall's near to come.</hi>
+                  </l>
+                  <l>
+                     <hi>
+                        <hi>This Church</hi> will <hi>fall,</hi> her Load will be her Guile,</hi>
+                  </l>
+                  <l>
+                     <hi>If you, O Flock, keep Purſe ſtrings faſt a while:</hi>
+                  </l>
+                  <l>
+                     <hi>When that Spring fails, by her you'll not be priz'd;</hi>
+                  </l>
+                  <l>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>ſurpers then o'er you you'll ſee deſpis'd.</hi>
+                  </l>
+                  <l>
+                     <hi>And Woes may long attend ſuch <hi>Pranting Preachers,</hi>
+                     </hi>
+                  </l>
+                  <l>
+                     <hi>As for Preferment turn'd deceitful Teachers:</hi>
+                  </l>
+                  <l>Fox <hi>is term'd Head, yet</hi> Whitehead <hi>ſteer'd the Courſe,</hi>
+                  </l>
+                  <l>
+                     <hi>Till both were ſcorn'd, and they grew worſe and worſe.</hi>
+                  </l>
+               </lg>
+               <p>Thus the Reader may perceive that I am not alone in this Diſcovery; and that <hi>W. Rogers,</hi> my ſelf, and others, have for ſome Years very well under<g ref="char:EOLhyphen"/>ſtood their Walking contrary to their Pretences, and have ſufficiently with<g ref="char:EOLhyphen"/>ſtood them, ſometimes to their Faces, and at other times publickly by Wri<g ref="char:EOLhyphen"/>ting; offering to prove the Truth of what we have aſſerted. The next thing I have to mention, is <hi>Thomas Ellwood</hi>'s Apology for his Brethren Hire<g ref="char:EOLhyphen"/>lings taking Money for Preaching; by which we may know what <hi>Herd</hi>
+                  <note n="*" place="margin">His own Word to <hi>Will Rogers, &amp;c.</hi>
+                  </note> he belongs to: For <hi>Will. Rogers</hi> had ſo ſcourged <hi>Geo. Whitehead,</hi> with ſuch deep Laſhes of plain Truth, as that his Pen was not able to defend him from that grand Hypocriſie wherewith <hi>Will. Rogers</hi> juſtly charged him, and his Fra<g ref="char:EOLhyphen"/>ternity.
+<pb n="14" facs="tcp:101178:9"/>And thereupon this conceited Scribe, and proud Phariſee, <hi>Tho. Ell<g ref="char:EOLhyphen"/>wood,</hi> to reſcue the decaying Reputation of his two Peers, <hi>G. F.</hi> and <hi>G. W.</hi> came in to their Aſſiſtance, and in Verſe makes an Apology for his Brethren taking Money for Preaching; confeſſing what I have often charged them with, and knew them guilty of. Not that I reckon Miniſters guilty of a Criminal Offence in taking Money, or other things, for and towards their Mainte<g ref="char:EOLhyphen"/>nance, of ſuch as they preach unto; but I mean guilty, in that they always pretended to Preach, Teach, Write, Suffer, and Record things freely; but yet, contrary to all theſe their Pretenſions, have all along taken Money for the ſame. Whereby it plainly appears, that all their Pretenſions were but to caſt a Miſt before their Hearers, and blind their Proſelites; for <hi>W. Rogers</hi>'s Scourge hath whipped out the Matter, and made them ſpeak the Truth. I ſay, This I call their Guilt, to pretend one thing, and act contrary to it, though, like ſome ſullen and ſtiff-necked Boys, they would not tell the Truth, until <hi>W. R.</hi> by his Scourge of ſmall Cords, was forced to whip it out of them. And now all is come out; yea, <hi>Tho. Ellwood</hi> hath in that point told the Truth, as Fools and Children will ſometimes do, when they are ſoundly whipped to it by a good Scourge, and skilful Chaſtiſer, as <hi>W. R.</hi> hath proved himſelf to be. Pray, now hear what <hi>Tho. Ellwood</hi> ſays in his Book, <hi>Rogero Maſtix,</hi> &amp;c.</p>
+               <lg>
+                  <l>
+                     <hi>But that Chriſt's Miniſters ſhould be ſupply'd</hi>
+                     <note n="(a)" place="margin">Here is a Confeſſion that their Miniſters are ſup<g ref="char:EOLhyphen"/>plied. Then, it ſeems, they do not go a Warfare at their own Charge, as you to your Hearers have pretended, <hi>&amp;c.</hi>
+                     </note>
+                  </l>
+                  <l>
+                     <hi>With Neceſſaries by the Church, (his Bride,)</hi>
+                  </l>
+                  <l>
+                     <hi>Is ſuch a known and certain Truth as none</hi>
+                  </l>
+                  <l>
+                     <hi>Perhaps hath e'er oppos'd but thou</hi>
+                     <note n="(b)" place="margin">Yes, you have frequent<g ref="char:EOLhyphen"/>ly denied that Miniſters ſhould have Money to ſupply their Neceſſities; calling them Hirelings, and Followers of <hi>Baalam</hi> for Reward, <hi>&amp;c.</hi>
+                     </note> 
+                     <hi>alone.</hi>—l. 18.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>That 'tis the Churches Duty to ſupply</hi>
+                  </l>
+                  <l>
+                     <hi>The needful Wants of all her Miniſtry.</hi>—</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>And Truth it is, too plain to be deny'd,</hi>
+                  </l>
+                  <l>
+                     <hi>Chriſt's Church ſhould for Chriſt's Miniſters provide.</hi>
+                  </l>
+                  <l>
+                     <hi>What carp'ſt thou at then,</hi> William? <hi>would thy Muſe</hi>
+                  </l>
+                  <l>
+                     <hi>Plead that St.</hi> Paul <hi>did not this Priv'lege uſe?</hi>—
+<note n="(c)" place="margin">No; St. <hi>Paul</hi> did uſe that Privilege; 'tis you that pretended not to uſe it, nor no ſuch Reward ſhould be found amongſt you; for, ſaid you, FREELY we have received, and FREELY we give; until <hi>William Rogers</hi> had whipped you with his Scourge, and forced you to ſpeak a little Truth, which is ſcarce enough with you, <hi>&amp;c.</hi>
+                     </note>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>That what was lacking to him, privately,</hi>
+                     <note n="(d)" place="margin">No; the Apoſtle did not pretend to be againſt neceſſary Supplies, ſo he needed not be aſhamed, and ſo take the Believers Benevolence privately: For 'tis you who pretend to take no Money for Preaching, that take it privately; yea, even ſo privately, that the very Donors do not know that you take Money for Preaching. Thus, Jeſuite-like, have you blinded your People, <hi>&amp;c.</hi>
+                     </note>
+                  </l>
+                  <l>
+                     <hi>The</hi> Macedonian <hi>Brethren did ſupply.</hi>
+                  </l>
+                  <l>
+                     <hi>Thus it appears th' Apoſtle did partake</hi>
+                  </l>
+                  <l>
+                     <hi>Of that Proviſion which the Church did make.</hi>—p. 19.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Chriſt's Miniſters to furniſh, and their Need</hi>
+                  </l>
+                  <l>
+                     <hi>Supply, when they want Moneys to proceed</hi>—
+<note n="(e)" place="margin">Then it ſeems, you confeſs you ſupply them with Money to proceed; but it is to whom, and when <hi>G. F. G. W. &amp;c.</hi> think it fit and expedient.</note>
+                  </l>
+                  <pb n="15" facs="tcp:101178:9"/>
+                  <l>
+                     <hi>Pretend thou canſt not, that the Stock is given</hi>
+                  </l>
+                  <l>
+                     <hi>To ſuch as have no need</hi>
+                     <note n="(f)" place="margin">No! What need was there to ſend <hi>S. Cater</hi> Ten Pounds, when he was fined Twenty Pounds for preach<g ref="char:EOLhyphen"/>ing at <hi>Phakenham</hi> in <hi>Norfolk,</hi> ſince he neither paid the Fine, nor his Goods ſold, nor did not loſe Ten Shillings by the ſaid Meeting? Nay, if he had ſuffered the loſs of that Fine, which he did not; yet, he be<g ref="char:EOLhyphen"/>ing a Man worth ſome Hundreds of Pounds, he would not have had any need of that Ten Pounds you ſent him; part of it perhaps given by Men not worth Twenty Shillings. But he was a currant Man for your purpoſe, and one that would preach up <hi>G. F</hi>'s Orders, and exclaim againſt the publick Miniſtry, <hi>&amp;c.</hi> And hereupon you thought he deſerved a piece of Money, and ſo ſent him Ten Pounds; which Gift was deſigned to be given him privately, as you would ſeem to ſuggeſt the Apoſtles received the Supply they had from the Churches privately, which is falſe; for <hi>Paul</hi> was ſo far from that, that he ſaid plainly, that he robbed, <hi>viz.</hi> took of other Churches, <hi>&amp;c.</hi> But as private as this Ten Pound was given, it came to be known; and that is the thing which diſturbed the poor Man, the diſcovery of it hath vexed him and his Brethren, more than ever it did him good; for he always pretended to be againſt Taking Money for Preaching, when alas, I have offered to prove that, and ſeveral other Summs.</note> 
+                     <hi>thereof; but even —</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Thy Flurt at</hi> Richardſon <hi>for taking Pay</hi>
+                  </l>
+                  <l>
+                     <hi>For what, as Clerk, he writes, doth much bewray</hi>
+                  </l>
+                  <l>
+                     <hi>Thy Folly and Injustice. Is't not fit,</hi>
+                  </l>
+                  <l>
+                     <hi>Who works for others, ſhould be pay'd for it;</hi>
+                  </l>
+                  <l>
+                     <hi>And that by them who him to work deſire?</hi>
+                  </l>
+                  <l>
+                     <hi>The Labourer is worthy of his Hire.</hi>
+                     <note n="(g)" place="margin">So, now you begin to ſay, the Labourer is worthy of his Hire: Sure you will forbear to call others Hirelings, now you have Hirelings amongſt your ſelves; for as you have preten<g ref="char:EOLhyphen"/>ded to preach, teach, and ſuffer freely, ſo you have pretended to write as Clerk freely: See my Book, <hi>Innocency vindicated, and Envy rebuked,</hi> &amp;c. <hi>pag.</hi> 3. where I have quoted <hi>Geo. Fox</hi>'s Order for Marriage, and other things; where he thus ſpeaks, AND THAT NOTHING BE RECORDED FOR MONEY IN THESE THINGS, BUT FREELY, A FREE PEOPLE, AND IN LOVE SERVE ONE ANOTHER, <hi>&amp;c.</hi> And for my part, I was Clerk to the Iſle of <hi>Ely</hi> Monthly and Quarterly Meetings, about ſixteen or eighten Years; and to the neareſt of them I rid fourteen Miles, and to the fartheſt eighteen Miles Monthly, and I never took a Penny of Money, and indeed thought you had meant as you ſpake; but now all is come out, and 'tis time for your Hearers to look about them, ſince their Money is given to ſuch as <hi>Sam Cater,</hi> who is a rich Man, and a great Trader. All which manifeſts your deep Hypocriſie.</note> p. 21.</l>
+               </lg>
+            </div>
+            <div n="9" type="instance">
+               <head>The <hi>IX.</hi> Inſtance of their hypocriſie.</head>
+               <p>THE next Proof of your <hi>Hypocriſie,</hi> that I ſhall mention, is, <hi>Firſt,</hi> Your decrying all Learning; and <hi>next,</hi> Your aſſuming to your ſelves ſuch Learning as you never had, nor do at all underſtand: The firſt Inſtance of theſe, is that remarkable Book, <hi>viz. George Fox</hi>'s, Printed 1659. Entituled, <hi>A Primer for the Doctors and Scholars of</hi> Europe, <hi>&amp;c.</hi> Behold how contemp<g ref="char:EOLhyphen"/>tuouſly there he ſpeaks both of Learning, and the Learned; wherein is con<g ref="char:EOLhyphen"/>tained 2434 Queries, propoſed to the Doctors and Scholars of <hi>Europe,</hi> but more particularly to the two <hi>Engliſh</hi> Univerſities; which are ſuch idle, im<g ref="char:EOLhyphen"/>pertinent, and unneceſſary Queries, that his Deſign could be nothing elſe, but to bring both Learning, and the Learned into Contempt, and to magni<g ref="char:EOLhyphen"/>fie his own Parts and Abilities; as that <hi>Geo. Fox,</hi> who but a little before ſate upon is Shoemakers Seat, working Journey-work at <hi>Mancheſter,</hi> for his Ma<g ref="char:EOLhyphen"/>ſter
+<pb n="16" facs="tcp:101178:10"/>
+                  <hi>Geo. Gee,</hi> who could hardly write his Name, or read a Chapter without ſpelling; and that he of a ſudden ſhould be ſuch a profound Scholar, as to propoſe 2434 Queries to all the Doctors and Scholars of <hi>Europe,</hi> and cha<g ref="char:EOLhyphen"/>lenge them out into the Field, bids them come out of their <hi>Holes</hi> and <hi>Dens;</hi> bids them draw their Weapons; for the little <hi>Davids</hi> were riſen, who had the <hi>Ba<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s,</hi> the <hi>Slings,</hi> and the <hi>Stones,</hi> &amp;c. I ſay, for him thus to chalenge all the Doctors and Scholars in <hi>Europe,</hi> at this rate, muſt needs deſign to render himſelf a Man of wonderful Parts to the Ignorant, and ſuch as believed him to be led and guided by an infallible Spirit, as that he could diſcern who are <hi>Saints,</hi> and who are <hi>Devils,</hi> and that without ſpeaking ever a
+<note n="*" place="margin">As he ſaid in his Book En<g ref="char:EOLhyphen"/>tituled, <hi>The Great Myſtery,</hi> pag 89.</note> word: But had he propoſed this multitude of Queries to all the Doctors and Scholars in <hi>Europe, Africa,</hi> and <hi>America;</hi> I ſuppoſe they could not have anſwered them; which put me in mind of an old Proverb, <hi>That one Fool may ask more Queſtions than an hundred Wiſe and Learned Men can anſwer.</hi> And if <hi>Geo. Fox,</hi> &amp;c. will not now come out, and make good his own Queries, and ſhew his Learning, and meet me and others at a convenient place, to clear himſelf of theſe, and many other things I have againſt him; it will appear that he is guilty; and that he hath not the power he pretends to, and that he dares not come into the Field, and draw his Weapon, if he have any. And what a ſhame is this, for ſuch an able Doctor, yea, ſuch a profound Scholar, as once he thought himſelf able to deal with all the Do<g ref="char:EOLhyphen"/>ctors and Scholars in <hi>Europe;</hi> and that after all this Brag, and monſtrous Boaſt, dare not now come forth, dare not now ſhew his Head; but hip and skip up and down, hide himſelf in <hi>Holes, Dens,</hi> and Lurking Places; ſurely this will greatly redound to his Diſ-repute and Infamy, in the eyes of all ſorts of intelligent Perſons; and will tend to his great Abaſement, Shame, and Confuſion of Face.</p>
+               <p>For if he will come forth of his <hi>Den,</hi> and meet me; I offer to make it ap<g ref="char:EOLhyphen"/>pear, That of the 2434 Queries he has propos'd in the ſaid <hi>Primer</hi> to all the Doctors and Scholars in <hi>Europe,</hi> that he cannot anſwer 200 of them himſelf; which is ſuch a piece of Hypocriſie as can ſcarce meet with a Parallel.</p>
+               <p>Next, That you aſſume to your ſelves ſuch Learning as you never had, nor do at all underſtand; I ſhall prove from another Book put forth by <hi>Geo. Fox,</hi> your great Doctor; Intituled, <hi>A</hi> Battledoor <hi>for Teachers, and Pro<g ref="char:EOLhyphen"/>feſſors to learn Plural and Singular, &amp;c.</hi> For if I prove theſe things upon your Head-man, your principal Projector; and by you owned to be led by an in<g ref="char:EOLhyphen"/>fallible Spirit, that cannot err, I prove it againſt you all; until you diſown theſe his vain Boaſts, and diſſembling Pretences, by which he hath deceived Multitudes, and through which he hath ſo highly exalted himſelf: But to proceed;</p>
+               <p>This <hi>Geo. Fox,</hi> who a little before ask'd what a <hi>Genitive Caſe</hi> was; what a <hi>Vowel</hi> was; what a <hi>Verb</hi> was; what an <hi>Adverb</hi> was; what a <hi>Noun</hi> was; and what a <hi>Pronoun</hi> was; in this <hi>Battledoor,</hi> ſet his Hand, and affixed his Name
+<pb n="17" facs="tcp:101178:10"/>to ſix ſeveral foreign Languages, (of which, he is not Maſter of one;) that it might go for current that he was inſpired with the Gift of
+<note n="*" place="margin">I do remember, that for 20 years together it was gene<g ref="char:EOLhyphen"/>rally believed by many of us, that <hi>Geo. Fox</hi> had 24 Languages given him by di<g ref="char:EOLhyphen"/>vine Inſpiration in one night; nay, I lately ſpake with one, ſtill eminent amongſt them, who ſaid he ever believ'd it, un<g ref="char:EOLhyphen"/>til the ſate Diviſions; ſo that it was time to diſcover theſe Juggles; or elſe we ſhould have had in a little time a heap of feigned Miracles, and perhaps out-done the <hi>Papiſts</hi> Legend.</note> Tongues, (for that he had any other Reaſon, I cannot underſtand;) which was ſuch a piece of Preſumption, as no Age can paral<g ref="char:EOLhyphen"/>lel. The Languages to which his Name in the ſaid <hi>Battledoor</hi> is affixed, are, the <hi>Latin,</hi> the <hi>Italian,</hi> the <hi>Greek,</hi> the <hi>Hebrew,</hi> the <hi>Chaldee,</hi> the <hi>Syriack;</hi> and if upon examination, he be found ignorant of the Grounds and Rules of theſe Languages, as he certainly is, it will appear that he never was the Author of that Learned Piece: And if ſo; how have that People been cheated and deceived, who believed that <hi>Geo. For</hi> was led by an infallible Spirit; that he (as they pretend,) had been ſo endued with <hi>Diſcerning</hi> and <hi>Judgment;</hi> and that <hi>On all Occaſions;</hi> (as this of writing the <hi>Battledoor,</hi> was one Occaſion;) as that none need to give him diſcerning into Tongues, or Languages: But that what his Name was to, muſt needs be his own; I ſay, when they come to ſee that <hi>Geo. For,</hi> who for many years has gone for a learned Antiquary, a pro<g ref="char:EOLhyphen"/>found Projector, a notable Querieſt, to be manifeſted to be ignorant of theſe Languages, and not the Author of the <hi>Battledoor,</hi> ignorant of the Que<g ref="char:EOLhyphen"/>ries, and not able to anſwer 200 of the 2434; when they come to ſee that all along he hath uſed theſe Tricks and Projects, only for a Name, and to raiſe himſelf into Greatneſs and Splendor; when they come to ſee that he is thus deceitful, and thereby manifeſted to be led by a fallible, deluding Spirit, What will they ſay? Nay, What can they ſay? Nay, What Excuſe can they make for themſelves, who thus have ſuffered themſelves to be cheated, delu<g ref="char:EOLhyphen"/>ded, and deceived by theſe his Pretences, in that they have not all this while examined things, but taken all on Truſt, believe implicitly, as the Church [<hi>i. e. G. F. G. Whitehead,</hi> and a few like them,] believe? Oh ſhameful Hypocriſie! If this be on examination found in <hi>G. Fox,</hi> their Head; what are the inferiour Sort? That a Man who is no Scholar, ſhould offer to en<g ref="char:EOLhyphen"/>title himſelf Author of a Learned Piece, as that, whoever writ it muſt be knowing in ſix Foreign Languages, is ſuch a Piece of Impudence, as I want Words to ſet forth.</p>
+               <p>Well, To the <hi>Primer</hi> again: And that the Reader may obſerve the Au<g ref="char:EOLhyphen"/>thor's Deſign, in propoſing theſe Queries, could be nothing elſe, but to bring the Learned, and Learning it ſelf into contempt; as I have already ſhewed; and to raiſe his own Fame, and Fortune by ſuch Shams and Tricks; I will re<g ref="char:EOLhyphen"/>cite a few of them, as they lie compact together; leſt they ſhould ſay I man<g ref="char:EOLhyphen"/>gle them into Bits and Scraps, and ſo ſpoil the Senſe, <hi>&amp;c,</hi> which indeed is utterly impoſſible to do; for they are all Nonſenſe: And my way to ſhew them to be Nonſenſe, is to take them entire, as they Ile folded together, <hi>viz.</hi>
+               </p>
+               <pb n="18" facs="tcp:101178:11"/>
+               <p>
+                  <hi>What is a</hi> Participle? <hi>and what is it in it ſelf; and by whom come; and out of what Ground?</hi> And, <hi>why are theſe</hi> Declined? <hi>and why is the Word called</hi> Decli<g ref="char:EOLhyphen"/>ned? <hi>who was the firſt Riſe and Author of it; and by whom it came?</hi> And, <hi>why is the Word called</hi> Adverb? <hi>and what is an</hi> Adverb? <hi>the word it ſelf; and who was its riſe?</hi> And, <hi>why do you call the Word</hi> Conjunction? <hi>and who was its riſe?</hi> And, <hi>why the Word</hi> Prepoſition; <hi>and who was its riſe?</hi> And, <hi>who was the Au<g ref="char:EOLhyphen"/>thor of the Word</hi> Interjection? <hi>And what are theſe two words in themſelves? and whether or no theſe are not come up by the Art of Men, and Invention?</hi>
+               </p>
+               <p>Behold theſe Learned Queries! And let <hi>W. P.</hi> and all Learned <hi>Rabbies</hi> a<g ref="char:EOLhyphen"/>mongſt the <hi>Quakers,</hi> anſwer them if they can: for I profeſs ingenuouſly, I cannot tell who was the firſt Author of theſe Words, and a Thouſand more, which are Queried; nor who ſpake them firſt; nor by whom they firſt came, no more than I can tell who ſpake the Word <hi>[Of]</hi> firſt: and who was its Riſe; and who was the Author of the Word <hi>[To,]</hi> and many others of our <hi>Engliſh</hi> Words; which to know, is as unneceſſary, as it is ridiculous to Que<g ref="char:EOLhyphen"/>ry, <hi>&amp;c.</hi> But if <hi>G. F<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>x</hi> had asked me, Who taught me to underſtand what a <hi>Genitive Caſe,</hi> an <hi>Adverb,</hi> a <hi>Conjunction,</hi> and an <hi>Interjection</hi> means? I could have told him, it was my Unkle <hi>Thomas Holeman;</hi> but to tell him who ſpake theſe Words firſt, and who was the Author of all theſe Words, and by whom they came, and what Ground they came out of, yea, and who was the Father that begat them, and the Mother that bare them; as <hi>Geo. Fox</hi> elſe<g ref="char:EOLhyphen"/>where hath it; I profeſs, I cannot tell; neither do I underſtand his Riddles, they are ſo dark, ſo myſterious, and ſo full of Nonſenſe.</p>
+               <p>Well, Reader, Take a few more of theſe Queries, and ſtill as they lie en<g ref="char:EOLhyphen"/>tire, by all means, leſt they ſay I ſpoil the Senſe, and wrong the Author, <hi>&amp;c.</hi> when, alas! they are as great Nonſenſe as I can poſſibly make them, if I ſhould take them all to pieces, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>What is the Word</hi> Vowel <hi>in it ſelf? And what was the Word</hi>
+                  <note n="*" place="margin">As if it was not what it Now is, <hi>viz.</hi> A <hi>Vowel.</hi>
+                  </note> Vowel? <hi>And what is the Word</hi> Diphthong? <hi>and who was the Author of theſe? and where are they called by any ſuch Names in Scripture? So, who was the Author of theſe Names? and who gave them? And what are theſe Names in themſelves, and of themſelves? And came they not from the Art of Men, yea, or nay?</hi>
+               </p>
+               <p>Thus, Reader, I have given thee a Hint, a Taſte, or Reliſh of <hi>Geo. Fox</hi>'s Queries to the Doctors and Scholars of <hi>Europe;</hi> by which thou maiſt ſee how learnedly <hi>George Fox</hi> Catechizes them. I ſhall now only add a few of them, as they lie ſcattered up and down the ſaid <hi>Primer,</hi> &amp;c. and ſo leave him in his Thicket of Brambles, or confuſed Nonſenſe.</p>
+               <p>
+                  <hi>What is a</hi> Major? <hi>What is a</hi> Minor? <hi>What is</hi> Extraction? <hi>What is</hi> Geome<g ref="char:EOLhyphen"/>try? <hi>What is a</hi> Point? <hi>What is an</hi> Angle? <hi>What is a</hi> Plain Angle? <hi>What is an</hi> Obtuſe Angle? <hi>What is an</hi> Acute Angle? <hi>What is</hi> Wolf-Madneſs? <hi>What is</hi> Dog Madneſs? <hi>What is</hi> Badger-Madneſs? <hi>&amp;c.</hi>
+               </p>
+               <p>Having given this additional Hint of theſe mad, diſtracted or diſtracting <hi>Queries,</hi> I ſhall only add a few of his Manly Expreſſions, in his Chalenge to
+<pb n="19" facs="tcp:101178:11"/>to the Doctors, to come out of their <hi>Holes</hi> and <hi>Dens;</hi> to the end, That he, and the reſt may come forth, and draw their Weapons, and ſhew their Cunning, when they ſee how they are chalenged, as they chalenged others, <hi>&amp;c.</hi> See theſe Pages in the ſaid <hi>Primer;</hi> pag. 4, 19, 21, 30, 36, 41, 55. Where are theſe Words, <hi>viz. Theſe</hi> Queries <hi>are to call them out into the Field; — Let them come out now to little Children.—Little</hi> Davids <hi>are riſen; who have the <hi>Bags,</hi> and the <hi>Sings,</hi> and the <hi>Srones;</hi> — Ye that profeſs your ſelves to be Wiſe, and Learned Men, and Scholars, and are Novices, and Fools; anſwer me:—Draw out your Weapon, if you have any, and anſwer me theſe things; come out of your <hi>Holes;</hi> do not <hi>Hip</hi> nor <hi>Skip</hi> from them: Anſwer every word in particular;—for you have Tongue enough ſometimes; let us ſee now if it can wagg.</hi>
+               </p>
+               <p>Theſe are your Words to the Scholars, <hi>&amp;c.</hi> Now, if when you are call'd into the Field your ſelves, and to come out of your <hi>Dens,</hi> we ſhall ſee whe<g ref="char:EOLhyphen"/>ther you can draw your Weapon; whether you have the <hi>Bags,</hi> the <hi>Sling,</hi> and <hi>Stones,</hi> you, like <hi>Goliah,</hi> boaſt of; and whether he and you can ſo wagg your Tongue, as to clear you from this Ninth Inſtance of <hi>Hypocriſie,</hi> with which he and you ſtand charged.</p>
+            </div>
+            <div n="10" type="instance">
+               <head>The <hi>X.</hi> Inſtance of their Hypocriſie.</head>
+               <p>THis I know for a certain Truth, that when they write the moſt notori<g ref="char:EOLhyphen"/>ous Lies, and ſcandalous Defamations againſt ſuch as they account their Adverſaries; (and like the falſe Prophets of old, cry Peace to the wicked, and juſtifie the ungodly, who put into their Mouths:) yet this they have the impudence to father upon the Spirit of the holy and juſt GOD: Witneſs <hi>Geo. Whitehead</hi>'s Book, Stil'd, <hi>Judgment fix'd,</hi> &amp;c. And <hi>S. Cater's Narra<g ref="char:EOLhyphen"/>tive,</hi> &amp;c.</p>
+               <p>And therefore, that I may not be like you, in ſaying, and not prove what I ſay to be true, I do hereby chalenge <hi>George Fox, Geo. Whitehead, William Pen,</hi> and <hi>Sam. Cater,</hi> to meet me any day next <hi>March,</hi> (giving me a Month's Notice,) at any Publick Houſe in <hi>Biſhop-Stortford,</hi> (being about the half-way from my Habitation;) where I offer to prove the Truth of what you deny, according to the Terms propoſed in the foreſaid <hi>Letter to the</hi> Qua<g ref="char:EOLhyphen"/>kers, &amp;c.</p>
+               <p>Now therefore, if your Cauſe be good, you Notable Champions, come forth; you that have chalenged all the Doctors, Scholars, and Profeſſors in <hi>Europe;</hi> come out of your <hi>Holes,</hi> and <hi>Dens,</hi> and <hi>Lurking-Places,</hi> and meet me: If you have the <hi>Bags,</hi> and the <hi>Slings,</hi> and the <hi>Stones</hi> you boaſt of; come forth of your <hi>Holes,</hi> and <hi>Dens,</hi> and <hi>Lurking-Places,</hi> yea, come into the Field, and draw your Weapons, if you have any worth the drawing; you know you have <hi>Tongue</hi> enough ſometimes; come, let us ſee if it can <hi>wagg;</hi> and whether you be able with all your <hi>Stones,</hi> and <hi>Bags,</hi> and <hi>Slings,</hi> and Wea<g ref="char:EOLhyphen"/>pons (you ſo much boaſt of,) to clear your ſelves from the guilt of <hi>Hypo<g ref="char:EOLhyphen"/>criſie:</hi> For,</p>
+               <pb n="20" facs="tcp:101178:12"/>
+               <p>The Day is come, O <hi>Babylon!</hi> that thou muſt be tried; and thy Mask muſt be taken off, thou <hi>Painted-Harlot;</hi> Thou <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>haſt long deceived the Nations by thy fine out-ſide Deckings, and Phariſaical Attire; but thy Fruit makes thee manifeſt; and by that we know thee to be the <hi>Harlot,</hi> and not the Spouſe of Chriſt, nor true Bride: <hi>Men do not gather Figs of Thorns, nor Grapes of Thiſtles.</hi>
+               </p>
+               <closer>
+                  <dateline>Mildenhall, <date>Novemb. 5th. 1690.</date>
+                  </dateline>
+                  <signed>Francis Bugg.</signed>
+               </closer>
+            </div>
+            <div type="queries">
+               <head>Here follow Twenty four <hi>Queries</hi> propounded to your Proteſtant Hearers; who have begun to throw off the Yoak, which <hi>Geo. Fox, G. W.</hi> &amp;c. have for many Years laden you with: And firſt, a few Words to you by way of Exhortation.</head>
+               <opener>
+                  <salute>FRIENDS,</salute>
+               </opener>
+               <p>IT was Chriſt's frequent Counſel to his Diſciples, to <hi>beware of the Leaven of the Phariſees; which,</hi> ſaid he, <hi>is Hypocriſie:</hi> I know no one thing that He took more care to preſerve his Diſciples from, than that of <hi>Hypocriſie;</hi> with which the Phariſees were very apt to leaven their Proſelytes: No doubt but much of their Doctrine was ſound; or elſe Chriſt would not have ſaid, <hi>They ſate in</hi> Moſes<hi>'s Seat: Therefore whatſoever</hi> (ſaid he) <hi>they bid you do, that obſerve, and do: But</hi> (mark) <hi>do not after their Works; for they ſay, and do not.</hi> That is to ſay, they ſpake ſome ſound Truths, they carried it fair to their Proſelytes, they were very preciſe in waſhing the Cup and Platter, in an Outſide Righteouſneſs, to be ſeen of Men; but inwardly they were rotten, inwardly they were proud, and diſdained others, who, in GOD's Eſteem, ſtood juſtified rather than they. And how far your Teachers are guilty of deep Hypocriſie, I have in part diſcovered, and doubt not but to make it yet more evident if they will meet me; which if they refuſe, being four ſuch Champions, as they doubtleſs, account themſelves, then I will appeal to you, whether it be not a Token of their Guilt: I mean, ſuch of you as ſtill retain the Proteſtant Principles, and are not of <hi>G. Fox</hi> his Party.</p>
+               <p>
+                  <hi>Query</hi> 1. Whether it was not great Hypocriſie in <hi>Geo. Fox,</hi> to ſtir up, counſel, and encourage <hi>Oliver Cromwell,</hi> his Officers, and Army, to fight with carnal Weapons; when, at the ſame time he did believe it utterly unlawful for a Chriſtian Man ſo to do? Anſwer.</p>
+               <p>
+                  <hi>Query</hi> 2. Whether it was not great Hypocriſie in <hi>Geo. Fox,</hi> and others, to vilifie, beſpatter, and expoſe the <hi>Presbyterians, Independents,</hi> &amp;c. as being of fighting Principles, and dangerous to the Government, in K. <hi>C.</hi> II's time;
+<pb n="21" facs="tcp:101178:12"/>thereby rendring them obnoxious to Sufferings, whenas they themſelves, by their Advice, Counſel, and Encouragement to <hi>Oliver Cromwel,</hi> &amp;c. (and that from the Word of the LORD:) were equally concerned in the ſame Cauſe and Quarrel?</p>
+               <p>
+                  <hi>Query</hi> 3. Do you believe that Arch-biſhop <hi>Cranmer</hi> compelled <hi>Edward</hi> VI. to ſign a Warrant to <hi>Burn</hi> poor <hi>Joan</hi> of <hi>Kent,</hi> for <hi>Were Religion</hi>-ſake; and that by this their Practice they <hi>Taught</hi> the <hi>Roman Catholicks</hi> the way of Perſe<g ref="char:EOLhyphen"/>cution? Anſwer.</p>
+               <p>
+                  <hi>Query</hi> 4. If not; Then, Whether or no ſuch of your Leaders, as have ſo writ, have not given away the Cauſe of Proteſtantiſm what in them lie; and abetted, vindicated, and aſſerted the Popiſh Cauſe; charging the Proteſtants with the original guilt of Perſecution? Anſwer.</p>
+               <p>
+                  <hi>Query</hi> 5. Whether <hi>Geo. Whitehead</hi>'s calling the <hi>Doctrine</hi> of Doctor <hi>Robert Barns,</hi> who ſuffered Martyrdom for the Cauſe of Chriſt, <hi>Corrupt Doctrine; tending to practical</hi> Ran<g ref="char:EOLhyphen"/>teriſm <hi>it ſelf; yea, ſordid</hi> Ranteriſm
+<note n="*" place="margin">See <hi>p</hi> 259. of <hi>G, W's Judg<g ref="char:EOLhyphen"/>ment fix'd,</hi> &amp;c, againſt the 222, 223 <hi>Pages</hi> of my Book, <hi>De Chr. Lib.</hi> &amp;c. Which are the Words of Dr. <hi>Barns.</hi> See the 298 <hi>Page</hi> in his Book, en<g ref="char:EOLhyphen"/>tiluled, <hi>Mens Conſtitutions not grounded on Scripture, bind not the Conſcience,</hi> &amp;c. verbatim,</note>, <hi>&amp;c.</hi> be not a ſign that he is Popiſhly <hi>affected?</hi> &amp;c. And whether <hi>G. W.</hi> do not herein appear like his Bro<g ref="char:EOLhyphen"/>ther Deceaſed, <hi>viz <hi>Bloody Bonner?</hi>
+                  </hi> Who fre<g ref="char:EOLhyphen"/>quently charged the Martyrs with ſuch Doctrine; as I could ſhew, were it pertinent: I ſay, in this do they not reſemble each other, as if they were Twins?</p>
+               <p>
+                  <hi>Query</hi> 6. Whether it be not as commendable to Addreſs King <hi>William</hi> and Queen <hi>Mary,</hi> who are by all Men acknowledged true Proteſtants, as it was to Addreſs the late King, who acknowledged himſelf a Roman Catho<g ref="char:EOLhyphen"/>lick?</p>
+               <p>
+                  <hi>Query</hi> 7. Whether it be not as lawful for Book-ſellers to ſell Proteſtant-Books; even ſuch as diſcover the Hypocriſie of the Teachers and Leaders of <hi>Geo. Fox,</hi> and his Party, as for <hi>Benj. Clark</hi> (their Book-ſeller,) to ſell Play-Books, Ballads, Papiſt-Books, Gypſy-Books, yea, and Ba—Books? Anſwer.</p>
+               <p>
+                  <hi>Query</hi> 8. Whether it be not great Hypocriſie to pretend to Preach, Teach, Suffer, Write, and Record Marriages, and other things freely, and under colour thereof condemn all other Churches and Societies, as Hirelings, Lovers of filthy Lucre, Followers of <hi>Balaam</hi> for Reward, <hi>&amp;c.</hi> and yet at the ſame time, take Money, Gifts, and Rewards themſelves, for doing the ſame things, <hi>&amp;c?</hi> Anſwer.</p>
+               <p>
+                  <hi>Query</hi> 9. Whether it was not great Hypocriſie in <hi>Geo. Fox,</hi> &amp;c. to write <hi>Queries</hi> to all Doctors and Scholars in <hi>Europe;</hi> and yet when <hi>Queries</hi> are pro<g ref="char:EOLhyphen"/>pounded to them, they will not anſwer? If they tell you, they are as ready to Anſwer <hi>Queries,</hi> as to ask; then let them Anſwer my 15 <hi>Queries</hi> propo<g ref="char:EOLhyphen"/>ſed in <hi>De Chriſt. Lib.</hi> p. 72, to p. 78. p. 154, to p. 163. and in <hi>Paint. Harlot,</hi> p. 40, 41. if they can.</p>
+               <pb n="22" facs="tcp:101178:13"/>
+               <p>
+                  <hi>Query</hi> 10. Whether it be not great Deceit for Men to write a Book, and pretend a Concern of Conſcience; that they do it for GOD's Glory, and as moved thereunto by the Eternal Spirit; and yet, to write ſuch abominable Lies, Slanders, and ſcandalous Defamations, as that they dare not, or are aſhamed to own their ſaid Books?</p>
+               <p>
+                  <hi>Query</hi> 11. Whether it was not great Preſumption in <hi>Geo. Fox,</hi> and a Badge of intolerable Pride, to put forth a Book with 2434 <hi>Queries</hi> in it; when he himſelf cannot anſwer the odd 34 of them?</p>
+               <p>
+                  <hi>Query</hi> 12. Whether it was not great Impudene in <hi>Geo. Fox,</hi> in his <hi>Bat<g ref="char:EOLhyphen"/>tledoor,</hi> to ſet his Hand, and affix his Name to ſix or more Foreign Languages; as, <hi>Latine, Greek, Hebrew, Italian, Chaldee, Syriack,</hi> &amp;c. and yet underſtand not one of them?</p>
+               <p>
+                  <hi>Query</hi> 13. Whether it was not great Hypocriſie for <hi>Geo. Whitehead, Ste<g ref="char:EOLhyphen"/>phen Criſp, William Penn,</hi> &amp;c. to make a Law or Edict at their General Meeting at <hi>London,</hi> May 75. <hi>That their Hearers ſhould conſtantly meet, and not <hi>Decline, Forſake,</hi> nor <hi>Remove</hi> their Meetings, like <hi>Worldly, Fearful,</hi> and <hi>Politick</hi> Profeſſors;</hi> and yet themſelves refuſed to ſtand in a like ſuffering capacity, relating to Sufferings with them? Anſwer.</p>
+               <p>
+                  <hi>Query</hi> 14. Whether it be not great Hypocriſie in <hi>Geo. Fox,</hi> and his Par<g ref="char:EOLhyphen"/>ty, to ſay, That GOD reſpects neither Time, Place, nor Perſons; and there<g ref="char:EOLhyphen"/>upon pretend, That for Conſcience-ſake they cannot give reſpect to their Superiours, by putting off their Hats; when at the ſame time they them<g ref="char:EOLhyphen"/>ſelves compel their Apprentices to ſtand bare<g ref="char:EOLhyphen"/>headed before them
+<note n="*" place="margin">This Piece of Hypocriſie I teſtified againſt more than Fifteen Years ſince, by a Let<g ref="char:EOLhyphen"/>ter to the then Yearly Meeting; which was before <hi>S. Cater</hi> and I had any Controverſie; See my Book, Entituled, <hi>Innocency Vindicated,</hi> and <hi>Envy rebuked,</hi> &amp;c. p. 8.</note>: nay in their very Shops, as if it were the Preſence-Chamber.</p>
+               <p>
+                  <hi>Query</hi> 15. Did not Chriſt, when he Taught his Diſciples to pray, <hi>Mat.</hi> 6.9. ſay, After this manner, therefore Pray ye; <hi>Our Father,</hi> &amp;c.—<hi>And for<g ref="char:EOLhyphen"/>give us our Sins, as we alſo forgive them that treſpaſs againſt us.</hi> Now ſuch as do not pray after this manner, are they not manifeſt Tranſgreſſors of this Precept of our LORD Jeſus Chriſt, and found in the ſteps of the proud Phariſee, who thinks himſelf ſo righteous, as that he need neither make con<g ref="char:EOLhyphen"/>feſſion of his Sins, nor ask forgiveneſs for Chriſt Jeſus ſake, in whoſe Name alone is Remiſſion of Sins?</p>
+               <p>
+                  <hi>Query</hi> 16. If you grant, that a neglect, or Re<g ref="char:EOLhyphen"/>fuſal of performing this part of Chriſtian Duty, be a ſign of a Phariſaical Pride
+<note n="*" place="margin">See my Book, Entituled, <hi>The Quakers detected,</hi> &amp;c. p. 12, 13, 14. Where I have en<g ref="char:EOLhyphen"/>larged upon this their grand Errour. To what I have writ in that Book, let the Reader obſerve <hi>W. Tindal,</hi> who ſays in his Works, entituled <hi>The Expoſition of the 6th Chapter of</hi> Matthew, <hi>pag.</hi> 222, 223. <hi>Becauſe he knoweth that our Nature is ſo weak, (and in<g ref="char:EOLhyphen"/>clinable to Sin,) therefore he teacheth us, daily to repent,— and daily to ask GOD Forgiveneſs: Seeing He comman<g ref="char:EOLhyphen"/>deth us to ask, we may be bold ſo to do, and to believe He will FORGIVE us: No Man therefore needeth to deſpair.</hi> I hope they will not rail on this bleſſed Martyr, <hi>W. Tindal,</hi> (who ſuffered in the Flames,) as <hi>Geo. Whitehead</hi> did of the Doctrine of Dr. <hi>Rob. Barns;</hi> who called it corrupt Doctrine, tending to Ranteriſm; yea, ſordid Ranteriſm.</note>; then I do far<g ref="char:EOLhyphen"/>ther Query, What is the Reaſon that <hi>Geo. Fox, Geo. Whitehead,</hi> and the reſt of their Preachers, in their publick Prayers in your Aſſembly, do not pray after the manner that Chriſt hath preſcribed; though not in the very Form of Words; yet after
+<pb n="23" facs="tcp:101178:13"/>His Precept; ſo, as to confeſs their Sins to GOD, and ask Forgiveneſs for Chriſt's ſake; which they do not.</p>
+               <p>
+                  <hi>Query</hi> 17. Seeing <hi>Edward Burroughs,</hi> in his Epiſtle writ at <hi>Dublin, To the Camp of the LORD in</hi> England, <hi>p.</hi> 2. [<hi>This is to go amongſt Friends,</hi> printed 1656.] ſays, <hi>You who are called Quakers,—above all the Families of the Earth: The Tabernacle of GOD is with you, and his Dwelling Place is among you, <hi>And only among you is God known,</hi>
+                  </hi> &amp;c. Now if ſo, that GOD be known <hi>Only</hi> by you, then the Query is, Whether all that be called Quakers, know the LORD? And whether none but the Quakers know the Lord? Anſwer to this, <hi>&amp;c.</hi> The Anſwer to this Queſtion will reſolve, Whether <hi>Geo. Fox,</hi> who ſaid, in his Book <hi>The Great Myſtery,</hi> &amp;c. and <hi>Solomon Eccles</hi> his Af<g ref="char:EOLhyphen"/>firmation, in <hi>The Quaker's Challenge,</hi> pag. 6. that you, and you <hi>Only,</hi> are GOD's People. I ſay, whether you all be (as <hi>John Field,</hi> one of your Prea<g ref="char:EOLhyphen"/>chers, ſays you are) <hi>of One Mind and Judgment,</hi> in this, and all other Matters?</p>
+               <p>
+                  <hi>Query</hi> 18. Whether there did not a ſtrong Deluſion enter many about the Year 1659. As that <hi>Geo. Fox</hi> was inſpired with the Gift of Tongues; and whether the recited <hi>Battledoor</hi> and <hi>Primer</hi> was not the Reaſon of that Opi<g ref="char:EOLhyphen"/>nion; and if it come to be made appear (as that it will, if he will meet at the place aforeſaid) that he is ignorant of the principal things contained in the ſaid Books, then whether it will not appear as great a Juggle, Trick, and Sham, to raiſe his Name and Fame, as ever was uſed by <hi>Mahomet,</hi> or amongſt the Papiſts about their feigned Miracles?</p>
+               <p>
+                  <hi>Query</hi> 19. Since they have told us by their Book, Judas <hi>and the</hi> Jews, <hi>pag.</hi> 41. viz. <hi>Our faithful Chronicles of the bloody Tragedies of that profeſſing Genera<g ref="char:EOLhyphen"/>tion will tell future Ages other things,</hi> &amp;c. What is the reaſon they do not bring out this their holy Chronicle they ſo much boaſt of? Or do they intend to fol<g ref="char:EOLhyphen"/>low the Steps of the Papiſts, and bring it forth when every Man is dead that remember thoſe Tranſactions; and that then it may paſs for an holy Cheat, or like one of their feigned Miracles? <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Query</hi> 20. Whether do you believe the Teachers and Preachers amongſt you be ſo qualified as they pretend in their Book, Judas <hi>and the</hi> Jews, <hi>pag.</hi> 58. <hi>viz. <hi>We need none to give us Diſcerning or Judgment; Chriſt hath furniſhed us already, and doth on all Occaſions:</hi>
+                  </hi> And as <hi>Geo. Fox</hi> pretends, in his Book ſtyled <hi>The Myſtery of the great Whore,</hi> &amp;c. <hi>pag.</hi> 89. where he ſays, <hi>They can diſcern who are Saints, who are Deuils, and who are Apoſtates, with<g ref="char:EOLhyphen"/>out ſpeaking ever a Word?</hi> &amp;c. I ſay, if you think them ſo qualified, then bid them ſhew in which of them three States are <hi>Geo. Smith, Tho. Rudyard,
+<pb n="24" facs="tcp:101178:14"/>Rob. Sandiland,</hi> and <hi>John Tyſoe,</hi> ſince none need to give them Diſcerning or Judgment, for that they, at all Times, and on all Occaſions, are ſo plentiful<g ref="char:EOLhyphen"/>ly endued, as to know who are Devils, who are Saints, and who are Apo<g ref="char:EOLhyphen"/>ſtates, <hi>&amp;c.</hi> And if they fail in their Judgment, and chance to call an Apo<g ref="char:EOLhyphen"/>ſtate a Saint, I hope you will then begin to ſee they are got a good Stride to <hi>Rome,</hi> by their feigned Miracles, and pretended Infallibility.</p>
+               <p>
+                  <hi>Query</hi> 21. <hi>Geo. Fox</hi> ſays, in his Book, <hi>The great Myſtery,</hi> &amp;c. <hi>The Work of the Miniſters of the Goſpel was not to reflect upon Perſons.— And this Reflect<g ref="char:EOLhyphen"/>ing upon Perſons was never the way to beget to GOD— is a Mark of a Falſe Prophet,</hi> &amp;c. Now if this be true, what do you think of <hi>George Whitehead,</hi> who in his Letter to me, printed in his <hi>Judgment fixed,</hi> &amp;c. calls me ten or twelve times <hi>Informer,</hi> when the Name was ſo odious at that time, that, in ſome parts of the Kingdom, he that was known to be an <hi>Informer,</hi> could hardly paſs without danger of his Life; and yet this meek, ſerious, and ſin<g ref="char:EOLhyphen"/>cere <hi>Geo. Whitehead,</hi> as ſometimes he pretends to be, had the Impudence thus to call me, and expoſe me in print, through the Nation; beſides abundance of other bad Names, as <hi>Wolf, Dog, Beaſt, Child of the Devil, Enemy of all Righteouſneſs,</hi> and the like. I ſay, beſides theſe, and many more, yet <hi>Informer</hi> was the frequent Epithet he gave me in almoſt every Page, on pur<g ref="char:EOLhyphen"/>poſe to inculcate and leaven the People, and yet at the ſame time knew that I was no ſuch manner of Perſon, but had ſuffered more by <hi>Informers</hi>
+                  <note n="*" place="margin">For beſides more than three Years Impriſonment for Mee<g ref="char:EOLhyphen"/>tings, Iſuffered the loſs or three Ten Pound Fines for the Non<g ref="char:EOLhyphen"/>ability of <hi>Geo. Thorowgood,</hi> at <hi>Ely,</hi> in the Iſle of <hi>Ely;</hi> for which they took near Fifty Pounds worth of Goods. And a Ten Pound Fine for the Nonability of <hi>Ja. Webb:</hi> And a Fine of Tw<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ty Pounds for <hi>William Benet</hi> having a Meeting at my Houſe; beſides ſix or eight ſmall Ten Shilling Fines: For all which I made no Complaint. But indeed, when a Fifteen Pound Fine came on me for <hi>Sam. Cater,</hi> through his not telling his Name and Habitation, I was not willing to pay that; and I am glad I was not ſo tame as to be Prieſt-ridden by <hi>S. Cater.</hi> And for this matter I refer the Reader to my Book entituled, <hi>The painted Harlot both ſtripp'd and whipp'd,</hi> pag. 39. nay, the whole Book, <hi>&amp;c.</hi>
+                  </note> than any one, if not all that had wrote againſt me had done. I ſay, if <hi>Geo. Fox</hi> his Judgment in the place aforeſaid be of Credit, then I can prove <hi>G. W.</hi> as falſe a Propet as <hi>Muggle<g ref="char:EOLhyphen"/>ton</hi> ever was; and, I am ſatisfied, a Man full of Ma<g ref="char:EOLhyphen"/>lice and Revenge, or elſe he could never have writ ſo wrongfully of me and others, as he hath done.</p>
+               <p>
+                  <hi>Query</hi> 22. Whether, in your Opinion, a Man may not go to the publick Worſhip eſtabliſhed by Law, and yet be a Chriſtian, and in the ſtate of Sal<g ref="char:EOLhyphen"/>vation? I ask you this Queſtion, who, I hope, do not think Salvation en<g ref="char:EOLhyphen"/>tail'd only to you under the Denomination of Quakers, as your Leaders have declared.</p>
+               <p>
+                  <hi>Query</hi> 23. Whether the treacherous Practice of <hi>Geo. Whitehead, Sam. Ca<g ref="char:EOLhyphen"/>ter, &amp;c.</hi> did not reſemble the Practice of <hi>Thomas Becket,</hi> that Popiſh Pre<g ref="char:EOLhyphen"/>late, in King <hi>Henry</hi> the Second's Time, upon that Popiſh Principle of not keeping Faith with Hereticks, compared with their Practice in not keep<g ref="char:EOLhyphen"/>ing that Covenant and Agreement they both made and recorded in their
+<pb n="25" facs="tcp:101178:14"/>Quarterly Book, at <hi>Hadenham</hi> in the Iſle of <hi>Ely,</hi> the 1ſt of <hi>December,</hi> 1680. as at large is recited in my Book, <hi>Painted Harlot,</hi> &amp;c. <hi>pag.</hi> 51, to 64. And then tell me,</p>
+               <p>
+                  <hi>Query</hi> 24. Whether you do not believe that they, in the Breach of that their Covenant, did not run parallel with the ſaid <hi>T. Becket;</hi> and thereby de<g ref="char:EOLhyphen"/>clare to all the World, that even ſo early they did eſpouſe that grand, trea<g ref="char:EOLhyphen"/>cherous, Popiſh Principle of not keeping Faith with ſuch as they account Hereticks?</p>
+            </div>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Novemb.</hi> 25. 1690.</date>
+               </dateline>
+               <signed>Fra. Bugg.</signed>
+            </closer>
+            <epigraph>
+               <q>
+                  <hi>Put your ſelves in Array against</hi> BABILON <hi>round about: All ye that bend the Bow,</hi> ſhoot <hi>at her,</hi> ſpare <hi>no</hi> Arrows. <hi>The LORD hath opened His ARMORY, and hath brought forth the Weapons of his Indignation; for this is the Work of the LORD GOD of Hosts.</hi>
+               </q>
+            </epigraph>
+         </div>
+         <div type="postscript">
+            <pb n="26" facs="tcp:101178:15"/>
+            <head>A POSTSCRIPT TO <hi>New Rome.</hi>
+            </head>
+            <lg>
+               <l>1. <hi>ROME'S</hi> SISTER thou art rightly ſtyl'd,</l>
+               <l>And with her may compare:</l>
+               <l>The Innocent thou haſt beguil'd,</l>
+               <l>Under Pretences fair.</l>
+            </lg>
+            <lg>
+               <l>2. Hypocriſie in thee is found,</l>
+               <l>Thy Leaven is not good:</l>
+               <l>Thy deep Deceit, thy Wit profound,</l>
+               <l>In which thy Confidence ſtood,</l>
+            </lg>
+            <lg>
+               <l>3. Is now come forth to open View,</l>
+               <l>That all may plainly ſee</l>
+               <l>Thy Art, thy Craft; and well perceive</l>
+               <l>Thy deep Hypocriſie.</l>
+            </lg>
+            <lg>
+               <l>4. How proud, like to the Phariſee,</l>
+               <l>Thy Countenance appear:</l>
+               <l>And how like to the <hi>Romiſh</hi> See,</l>
+               <l>Thou doſt thy Fabrick rear?</l>
+            </lg>
+            <lg>
+               <l>5. Thy Errours, which but few did ſee,</l>
+               <l>Are now become thy Crime;</l>
+               <l>And loaded therewith thou ſhalt be,</l>
+               <l>And that from Time to Time:</l>
+            </lg>
+            <lg>
+               <l>6. A Crime from which thou can'ſt not,</l>
+               <l>With all thy Subtilty,</l>
+               <l>Clear thy ſelf; 'tis ſuch a Blot</l>
+               <l>That on thy Face doth lie,</l>
+            </lg>
+            <pb n="27" facs="tcp:101178:15"/>
+            <lg>
+               <l>7. As <hi>ROME,</hi> thy SISTER, never had,</l>
+               <l>At thy Age, charged on her;</l>
+               <l>Nor any Crimes half ſo bad,</l>
+               <l>At twice thy Age, upon her:</l>
+            </lg>
+            <lg>
+               <l>8. Though ſhe at length, as Age grew on,</l>
+               <l>Through her vile Impoſition,</l>
+               <l>Abhorr'd became, and grew a Scorn</l>
+               <l>To ev'ry Chriſtian Nation.</l>
+            </lg>
+            <lg>
+               <l>9. And doſt thou think for to eſcape,</l>
+               <l>With thy UNWRIT TRADITIONS,</l>
+               <l>The Stroaks which Proteſtants do make</l>
+               <l>Againſt thy Superſtitions?</l>
+            </lg>
+            <lg>
+               <l>10. Againſt thy Errours, and thy Pride;</l>
+               <l>Againſt thy Hypocriſies:</l>
+               <l>Againſt thy Turning with the Tide,</l>
+               <l>And other Enormities?</l>
+            </lg>
+            <lg>
+               <l>11. No, no, I ſay; as thou art found</l>
+               <l>Treading the Papiſts Path,</l>
+               <l>True Proteſtants will thy Pride wound,</l>
+               <l>As <hi>Luther,</hi> and others, hath</l>
+            </lg>
+            <lg>
+               <l>12. Thy Elder SISTER's Tripple Crown;</l>
+               <l>Whoſe Pride doth not exceed</l>
+               <l>The Pride of thee, which doth abound,</l>
+               <l>Exceeding her indeed.</l>
+            </lg>
+            <lg>
+               <l>13. <hi>Wherefore, ye skilful Archers bold,</hi>
+               </l>
+               <l>
+                  <hi>Come forth, and bend the Bow:</hi>
+               </l>
+               <l>
+                  <hi>Let none eſcape, as hath been told</hi>
+               </l>
+               <l>
+                  <hi>Of</hi> Babel, <hi>High nor Low.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>14. <hi>But do to her as ſhe t'others have,</hi>
+               </l>
+               <l>
+                  <hi>As a juſt Recompence:</hi>
+               </l>
+               <l>
+                  <hi>She hath been proud, againſt the LORD,</hi>
+               </l>
+               <l>
+                  <hi>And uſed Violence.</hi> Jer. 50.2.</l>
+            </lg>
+            <closer>
+               <signed>Fra. Bugg.</signed>
+            </closer>
+         </div>
+         <div type="answer">
+            <pb n="28" facs="tcp:101178:16"/>
+            <head>The Author being informed of <hi>G. Fox</hi>'s Death, writ this in Anſwer; and deſired it might be here inſerted.</head>
+            <opener>
+               <salute>Dear Sir,</salute>
+            </opener>
+            <p>YOurs of the 15th. inſtant, I received; wherein, you tell me <hi>Geo. Fox</hi> is dead, and that my Book is not yet finiſhed; and that you would know my Mind about it, <hi>&amp;c.</hi> In Anſwer to which, I ſay, that Pope <hi>Adrian</hi> is dead, Pope <hi>Leo</hi> is dead, Pope <hi>Gregory</hi> is dead, and abundance more of other Popes are dead; What then? Did <hi>Luther, Frith, Barns, Tyndal,</hi> and the Proteſtant Party let fall their Teſtimonies becauſe the Popes were dead? No ſuch Matter: <hi>Popery</hi> is <hi>Popery</hi> ſtill, and <hi>Error</hi> is <hi>Error</hi> ſtill; and in like manner ſo it will be with this <hi>New Rome;</hi> for though <hi>George Fox</hi> be dead, yet <hi>Geo. Whitehead,</hi> his Succeſſor, is alive, and as cun<g ref="char:EOLhyphen"/>ning, as crafty, and as politick in erecting their New Church-Go<g ref="char:EOLhyphen"/>vernment, and impoſing upon thoſe, who for Conſcience ſake could not ſubmit to it, as ever <hi>Geo. Fox</hi> was; and therefore as much rea<g ref="char:EOLhyphen"/>ſon now to manifeſt his, and their Errors, Innovations, and grand Hypocriſies as ever.</p>
+            <p>And that it may farther appear, that there is juſt Cauſe for that Zeal that hath been raiſed up in ſeveral others, as well as in my ſelf, againſt <hi>G. F.</hi> and the Leaders of this People, I ſhall cite ſome Paſſages writ by Three of his Preachers; (in which he was too much ado<g ref="char:EOLhyphen"/>red and idolized, and no doubt will be ſo now he is dead.)</p>
+            <p>
+               <hi>First,</hi> That of <hi>Joſiah Coal,</hi> in a Letter from <hi>Barbadoes.</hi>
+            </p>
+            <p>
+               <hi>Dear</hi> G. Fox, <hi>who art the Father of many Nations; whoſe Life hath reached through us thy Children even to the Iſles afar off, to the be<g ref="char:EOLhyphen"/>getting many again to a lively Hope; for which Generations to come ſhall call thee Bleſſed; whoſe Being and Habitation is in the Power of the Highest, in which thou rules and governs in Righteouſneſs, and thy</hi> Kingdom <hi>is eſtabliſhed in Peace, and the increaſe thereof is with<g ref="char:EOLhyphen"/>out end.</hi>
+            </p>
+            <p>Next, That of <hi>S. Eccles</hi>
+               <note n="*" place="margin">Quakers Chalenge. <hi>p.</hi> 6.</note>, who writ of <hi>G. F.</hi> theſe Words, (which were not fit to be ſaid of any Mortal;) <hi>viz, A Prophet indeed;—It was ſaid of Chriſt, That</hi> He was in the World, and the World was made by him, and
+<pb n="29" facs="tcp:101178:16"/>the World knew him not; <hi>SO it may be ſaid of this true Prophet, whom</hi> John <hi>ſaid he was not; but thou ſhalt feel this Prophet one day as heavy as a Milſtone upon thee: and though the World knows him not, yet he is known.</hi>
+            </p>
+            <p>And next, that of <hi>John Audland,</hi> in a Letter of his to <hi>G. F.</hi> from the Weſt of <hi>England. Dear, and precious one, in whom my Life is bound up; and my ſtrength in thee ſtands; by thy Breathings I am nou<g ref="char:EOLhyphen"/>riſhed; by thee my ſtrength is renewed; Bleſſed art thou for ever<g ref="char:EOLhyphen"/>more; and bleſſed are all they that enjoy thee; Life and Strength comes from thee,</hi> Holy One.—<hi>Daily do I find thy Preſence with me, which doth exceedingly preſerve me; for I cannot reign but in thy Preſence and Power. Pray for me, that I may ſtand in thy Dread for evermore. — Pray for us all, that in thy Power we may abide for evermore: I am thine, begotten, and nouriſhed by thee, and in thy Power am I preſerved. Glory unto thee, Holy One, for ever.</hi> Theſe, and many other Idolatrous, if not Blaſphemous Names and Titles, have been given and attributed to <hi>G. F.</hi>
+               <note n="*" place="margin">See <hi>Tho. Criſp</hi>'s firſt Part of <hi>Babel's Builders,</hi> &amp;c, p. 7. and his 5th Part, <hi>p.</hi> 16. And <hi>W. Roger</hi>'s 5th par. <hi>Chriſt. Qua<g ref="char:EOLhyphen"/>ker,</hi> &amp;c. <hi>p.</hi> 77. And <hi>Painted Harlot,</hi> &amp;c. <hi>Preface,</hi> p. 6. And <hi>The Quakers <g ref="char:V">Ʋ</g>nmask'd,</hi> p. 15. <hi>The Spirit of the Hat,</hi> &amp;c, p. 27, 28. And, <hi>Tyranny and Hypocriſie,</hi> &amp;c. p. 19.</note> which I never heard that ever he diſown'd, or teſtified againſt; but inſtead thereof, was a great Countenancer and Encourager of ſuch Elatterers, and a great Boaſter of his own State, <hi>&amp;c.</hi> And therefore it lies now upon his Succeſſor and Succeſſors, to juſtifie, excuſe, or condemn theſe Errors, and others, in my Book ſet forth. And ſeeing <hi>G. F.</hi> is dead, I do hereby chalenge <hi>Stephen Criſp</hi> to meet me (with the reſt before-mentioned, <hi>p.</hi> 19.) ſince <hi>Geo. Whitehead</hi> hath a mind he ſhould be his Partner, (which is more than <hi>Rob.</hi> and <hi>S. Duncon</hi> would have deſi<g ref="char:EOLhyphen"/>red (if they had heen alive,) for Reaſons they knew;) ſo let it be haſtned: What I writ, I writ when he was living; and now he is gone, there are enough to Anſwer for him, and themſelves, if they be able.</p>
+            <closer>
+               <dateline>
+                  <date>January 18; 1690/1</date>
+               </dateline>
+               <salute>Sir,</salute>
+               <signed>
+                  <hi>I am yours in Sincerity,</hi> Fra. Bugg.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:101178:17"/>
+            <head>ERRATA.</head>
+            <p>Pag. 12. l. 28. for <hi>ſuch</hi> read <hi>Truth.</hi> p. 15. l. laſt, for <hi>is</hi> read <hi>his.</hi> p. 17. l. laſt, for <hi>lle</hi> read <hi>lie.</hi> p. 18. l. 1. for <hi>come</hi> read <hi>it came.</hi> p. 22. l. 9. for <hi>Impudene,</hi> read <hi>Impudence.</hi>
+            </p>
+         </div>
+         <div type="publishers_advertisement">
+            <head>Advertiſements of Books ſold by <hi>J. Gwillim,</hi> in <hi>Biſhopſgate-ſtreet,</hi> over againſt the <hi>Great James,</hi> Bookſeller.</head>
+            <list>
+               <item>1. <hi>THE Painted Harlot both ſtripp'd and whipp'd,</hi> &amp;c. By <hi>Fra. Bugg.</hi>
+               </item>
+               <item>2. <hi>Reaſon againſt Rayling,</hi> and <hi>Truth against Falſhood;</hi> being a Concluſive <hi>Poſtſcript</hi> to be annexed to the Book entituled <hi>The pain<g ref="char:EOLhyphen"/>ted Harlot,</hi> &amp;c. By <hi>Fra. Bugg.</hi>
+               </item>
+               <item>3. <hi>Innocency Vindicated,</hi> and <hi>Envy Rebuked;</hi> being a brief An<g ref="char:EOLhyphen"/>ſwer to <hi>Geo. Whitehead,</hi> and <hi>John Tyſoe,</hi> &amp;c. By <hi>Fra. Bugg.</hi>
+               </item>
+               <item>4. <hi>The Quakers detected, their Errours confuted, and their Hypo<g ref="char:EOLhyphen"/>criſie diſcovered,</hi> &amp;c. By <hi>Fra. Bugg.</hi>
+               </item>
+               <item>5. <hi>Battering Rams against New Rome,</hi> &amp;c. By <hi>Fra. Bugg.</hi> All five in <hi>Quarto;</hi> with other Books wrote by divers Authors on the ſame Subject, bound together, as well as ſold ſeverally, <hi>&amp;c.</hi>
+               </item>
+               <item>
+                  <hi>De Christiana Libertate;</hi> or <hi>Liberty of Conſcience upon its true and proper Grounds, Aſſerted and Vindicated, and the Miſchiefs of Impoſition amongst the People called</hi> Quakers <hi>made manifeſt.</hi> In two Parts: The Firſt— by a nameleſs, yet an approved Author. The Second— by <hi>Fra. Bugg.</hi> In <hi>Octavo,</hi> Bound.</item>
+               <item>
+                  <hi>The Quakers unmask'd, [i.e. Geo. Fox,</hi> and his Party,] <hi>Their Double Dealing, and Falſe-heartedneſs diſcovered,</hi> &amp;c. Folio.</item>
+               <item>
+                  <hi>A Looking-Glaſs for the</hi> Quakers, in two Columns; wherein they may in part ſee themſelves, and may be ſeen by others. In <hi>Folio.</hi>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
